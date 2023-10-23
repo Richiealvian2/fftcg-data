@@ -83,4 +83,13 @@ Each card variant should be in it's own `.json` file. The name of the file shoul
 |number|Ths number of the card as seen on the serial. If there are two serial numbers listed, use the number of the second serial number.|For a card with the serial number `10-001/4-002`, the number would be `"number": 2`.|
 |abilities|An array of strings with the cards ability text. Each new paragraph on the cards ability text is a new element in the array. **SEE ABILITY TEXT SECTION BELOW FOR MORE INFO**||
 |power|The power listed on the card. Leave this out if no power is present.||
-|categories|An array of categories as listed on the card.|`["X", "DFF"]`|
+|categories|An array of categories as listed on the card.|`"categories": ["X", "DFF"]`|
+|jobs|An array of jobs as listed on the card.|`"jobs": ["Sky Pirate", "Viking"]`|
+|rarity|The rarity as listed on the serial "C", "R", "H", "L", "S"|`"rarity": "H"`|
+|cost|The cost to cast the card as displayed on the crystal of the card.|`"cost": 5`|
+|elements|An array of elements of the card.|`"elements": ["Wind", "Fire"]`|
+|type|The card type. "Forward", "Backup", "Monster", "Summon".|`"type": "Monster"`|
+|isExBurst|`true` if the card is an ex burst. `false` if not.|`"isExBurst": false`|
+|isMultiPlayable|`true` if the card is multiplayable. `false` if not.|`"isMultiPlayable": true`|
+|isSpecial|`true` if the card has a special. `false` if not.|`"isSpecial": false`|
+
