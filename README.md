@@ -11,7 +11,7 @@ Data on cards, card variants, and products are all separated into their own fold
 /products
 ```
 
-Cards should be separated into subfolders by opus.
+Cards should be separated into subfolders by opus. If the card displays multiple opus (`10-001/4-002`), the opus that comes second should be used (`04` in this example).
 
 ```
 /cards/01/
@@ -46,6 +46,12 @@ Each card variant should be in it's own `.json` file. The name of the file shoul
 |F/NF|`F` if the card is foil. `NF` if the card is non-foil|no|
 |FA|`_FA` if the card is full art.|yes. If the card is not full art, leave out this field, and the `_` that proceeds it.|
 
+```
+/card-variants/01/1-001H_F.json
+/card-variants/01/1-001H_NF.json
+/card-variants/Noir_Collection/15-138S_F_FA.json
+```
+
 ## Adding New Cards
 
 ### Schema
@@ -57,8 +63,8 @@ Each card variant should be in it's own `.json` file. The name of the file shoul
     number: number,
     abilities: string[] | undefined,
     power: number | undefined,
-    categoryIds: number[] | undefined,
-    jobs: number[] | undefined,
+    categories: string[] | undefined,
+    jobs: string[] | undefined,
     rarity: string | undefined,
     cost: number | undefined,
     elements: CardElementName[] | undefined,
@@ -73,8 +79,8 @@ Each card variant should be in it's own `.json` file. The name of the file shoul
 |-|-|-|
 |serial|The second serial number displayed on the card. For instance, if the serial displays `PR-999/21-091`, the value for `serial` would be `21-091`. |`"serial": "21-091"`|
 |name|The name displayed on the card.|`"name": "Locke"`|
-|opus|||
-|number|||
-|abilities|||
-|power|||
-||||
+|opus|The opus of the card. If there are two serial numbers listed, use the opus of the second serial number.|For a card with serial number `10-001/4-002`, the opus would be `"opus": 4`.|
+|number|Ths number of the card as seen on the serial. If there are two serial numbers listed, use the number of the second serial number.|For a card with the serial number `10-001/4-002`, the number would be `"number": 2`.|
+|abilities|An array of strings with the cards ability text. Each new paragraph on the cards ability text is a new element in the array. **SEE ABILITY TEXT SECTION BELOW FOR MORE INFO**||
+|power|The power listed on the card. Leave this out if no power is present.||
+|categories|An array of categories as listed on the card.|`["X", "DFF"]`|
