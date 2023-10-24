@@ -2,7 +2,7 @@
 
 A repository of Final Fantasy Trading Card Game data
 
-# Creating Cards
+## Creating Cards
 Cards should be separated into subfolders by opus. If the card displays multiple opus (`10-001/4-002`), the opus that comes second should be used (`04` in this example).
 
 ```
@@ -77,4 +77,5 @@ Ability text has special markup that gets replaced when it's rendered on materia
 |water cp|`{a}`|
 |dull icon|`{d}`|
 
-
+## Pull Requests
+Raise a PR into main with a copy of the card image in the description so reviewers can compare your card text with the content of your PR. PRs should not be merged without images available. Links to images are acceptable as well.
