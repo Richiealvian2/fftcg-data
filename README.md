@@ -1,6 +1,6 @@
-# materiahunter-data
+# fftcg-data
 
-A repository of Final Fantasy Trading Card Game data, formatted for https://www.materiahunter.com
+A repository of Final Fantasy Trading Card Game data
 
 # Creating Cards
 Cards should be separated into subfolders by opus. If the card displays multiple opus (`10-001/4-002`), the opus that comes second should be used (`04` in this example).
