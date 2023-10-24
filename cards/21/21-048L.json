@@ -1,0 +1,25 @@
+{
+    "serial": "21-048L",
+    "opus": 21,
+    "number": 48,
+    "name": "Princess Sarah",
+    "abilities": [
+        "{0}:Choose 1 Forward. Until the end of the turn, it gains \"This Forward cannot be chosen by EX Bursts.\"You can only use this ability during your Main Phase and only once per turn.",
+        "{d}, discard 1 ~Job Princess~:Choose 1 Forward. During this turn, the next damage dealt to it becomes 0 instead."
+    ],
+    "categories": [
+        "SOPFFO"
+    ],
+    "jobs": [
+        "Princess"
+    ],
+    "cost": 2,
+    "elements": [
+        "Wind"
+    ],
+    "type": "Backup",
+    "rarity": "L",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}
