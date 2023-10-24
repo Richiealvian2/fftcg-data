@@ -2,15 +2,7 @@
 
 A repository of Final Fantasy Trading Card Game data, formatted for https://www.materiahunter.com
 
-## Folder / File / Data Structure
-Data on cards, card variants, and products are all separated into their own folders.
-
-```
-/cards
-/card-variants
-/products
-```
-
+# Creating Cards
 Cards should be separated into subfolders by opus. If the card displays multiple opus (`10-001/4-002`), the opus that comes second should be used (`04` in this example).
 
 ```
@@ -24,35 +16,6 @@ Each card should be in it's own `.json` file with the serial number as the name 
 ```
 /cards/01/1-001H.json
 ```
-
-Card variants should be separated into subfolders by opus, or by product if the variant wasn't released in the print run of that opus.
-
-```
-/card-variants/01/
-/card-variants/02/
-/card-variants/03/
-/card-variants/PR/
-/card-variants/Noir_Collection/
-```
-
-Each card variant should be in it's own `.json` file. The name of the file should be in the following format:
-
-`{serial}_{secondary_serial}_{F/NF}_{FA}`
-
-|part|description|optional|
-|-|-|-|
-|serial|The first serial listed on the card|no|
-|secondary_serial|The second serial listed on the card.|yes. If no second serial exists, leave out this field, and the `_` that proceeds it.|
-|F/NF|`F` if the card is foil. `NF` if the card is non-foil|no|
-|FA|`_FA` if the card is full art.|yes. If the card is not full art, leave out this field, and the `_` that proceeds it.|
-
-```
-/card-variants/01/1-001H_F.json
-/card-variants/01/1-001H_NF.json
-/card-variants/Noir_Collection/15-138S_F_FA.json
-```
-
-## Adding New Cards
 
 ### Schema
 ```
