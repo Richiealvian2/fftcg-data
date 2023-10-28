@@ -1,0 +1,28 @@
+{
+    "serial": "21-061H",
+    "opus": 21,
+    "number": 61,
+    "name": "Ursula",
+    "abilities": [
+        "*Brave*",
+        "When Ursula enters the field, gain {c}.",
+        "{c}: Ursula gains +3000 power until the end of the turn.",
+        "{c}: During this turn, the Forwards you control cannot be chosen by EX Bursts."
+    ],
+    "power": 5000,
+    "categories": [
+        "IV"
+    ],
+    "job": [
+        "Monk"
+    ],
+    "cost": 2,
+    "elements": [
+        "Earth"
+    ],
+    "type": "Forward",
+    "rarity": "H",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}

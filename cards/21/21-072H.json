@@ -1,0 +1,26 @@
+{
+    "serial": "21-072H",
+    "opus": 21,
+    "number": 72,
+    "name": "Tulien",
+    "abilities": [
+        "If a Forward you control deals battle damage to a Forward, the damage increases by 2000 instead.",
+        "{0}: Choose 1 Forward. Until the end of the turn, it gains \"This Forward must attack once per turn if possible.\" and \"This Forward must block if possible.\" You can only use this ability once per turn."
+    ],
+    "power": 7000,
+    "categories": [
+        "FFBE"
+    ],
+    "job": [
+        "Warrior"
+    ],
+    "cost": 3,
+    "elements": [
+        "Earth"
+    ],
+    "type": "Forward",
+    "rarity": "H",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}

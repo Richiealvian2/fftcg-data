@@ -1,0 +1,28 @@
+{
+    "serial": "21-062H",
+    "opus": 21,
+    "number": 62,
+    "name": "Ash",
+    "abilities": [
+        "*Brave*",
+        "The Forwards with *Brave* other than Ash you control gain +3000 power.",
+        "When Ash enters the field, choose 1 Character in your Break Zone. If you control 2 or more ~Category SOPFFO~ Forwards, add it to your hand.",
+        "{d}]: Choose 1 Forward. It gains *Brave* until the end of the turn."
+    ],
+    "power": 7000,
+    "categories": [
+        "SOPFFO"
+    ],
+    "job": [
+        "Monk"
+    ],
+    "cost": 3,
+    "elements": [
+        "Earth"
+    ],
+    "type": "Forward",
+    "rarity": "H",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}
