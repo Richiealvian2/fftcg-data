@@ -1,0 +1,25 @@
+{
+    "serial": "21-008R",
+    "opus": 21,
+    "number": 008,
+    "name": "Vermilion Bird l'Cie Caetuna",
+    "abilities": [
+        "{d}: Choose 1 Forward. If it is put from the field into the Break Zone this turn, remove it from the game instead.",
+        "{d}, put 3 Backups into the Break Zone: Choose 2 Forwards. Deal them 10000 damage."
+    ],
+    "categories": [
+        "TYPE-0"
+    ],
+    "jobs": [
+        "L'Cie"
+    ],
+    "cost": 2,
+    "elements": [
+        "Fire"
+    ],
+    "type": "Backup",
+    "rarity": "Rare",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}

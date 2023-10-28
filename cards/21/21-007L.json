@@ -1,0 +1,27 @@
+{
+    "serial": "21-007L",
+    "opus": 21,
+    "number": 007,
+    "name": "Shadow",
+    "abilities": [
+        "~Warp 2~ - {f}",
+        "At the end of each of your turns, if 1 or more Warp Counters are placed on Shadow, remove 1 Warp Counter from Shadow for each Category VI Forward you control. This effect will trigger only if Shadow is removed from the game.",
+		"When Shadow enters the field, discard your hand. Then, draw 2 cards."
+    ],
+	"power": 9000,
+    "categories": [
+        "VI"
+    ],
+    "jobs": [
+        "Assassin"
+    ],
+    "cost": 7,
+    "elements": [
+        "Fire"
+    ],
+    "type": "Forward",
+    "rarity": "Legend",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}

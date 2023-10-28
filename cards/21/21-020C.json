@@ -1,0 +1,26 @@
+{
+    "serial": "21-020C",
+    "opus": 21,
+    "number": 020,
+    "name": "Lehftia",
+    "abilities": [
+		"If your Fire Summon or a Fire Character you control deals damage to a Forward, the damage increases by 2000 instead."
+		"~Damage 3~ - When Lehftia enters the field, choose 1 Forward opponent controls. Deal it 6000 damage."
+    ],
+	"power": 5000,
+    "categories": [
+        "FFBE"
+    ],
+    "jobs": [
+        "Fusionist"
+    ],
+    "cost": 2,
+    "elements": [
+        "Fire"
+    ],
+    "type": "Forward",
+    "rarity": "Common",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}

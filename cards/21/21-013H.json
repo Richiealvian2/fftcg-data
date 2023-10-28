@@ -1,0 +1,26 @@
+{
+    "serial": "21-013H",
+    "opus": 21,
+    "number": 013,
+    "name": "Feolthanos",
+    "abilities": [
+		"When your opponent uses an EX Burst, Feolthanos deals your opponent 3 points of damage."
+		"When Feolthanos is put from the field into the Break Zone, choose up to 2 Forwards. Deal them 9000 damage."
+    ],
+	"power": 9000,
+    "categories": [
+        "XII"
+    ],
+    "jobs": [
+        "Aegyl"
+    ],
+    "cost": 5,
+    "elements": [
+        "Fire"
+    ],
+    "type": "Forward",
+    "rarity": "Hero",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}

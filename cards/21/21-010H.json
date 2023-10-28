@@ -1,0 +1,26 @@
+{
+    "serial": "21-010H",
+    "opus": 21,
+    "number": 010,
+    "name": "Taivas",
+    "abilities": [
+		"When Taivas enters the field, you may search for 1 ~Job Warrior~ or ~Card Name Warrior~ and add it to your hand."
+		"{0}: Play 1 ~Job Warrior~ or ~Card Name Warrior~ of cost 3 or less from your hand onto the field. You can only use this ability during your turn and only once per turn."
+    ],
+	"power": 9000,
+    "categories": [
+        "FFBE"
+    ],
+    "jobs": [
+        "Warrior"
+    ],
+    "cost": 5,
+    "elements": [
+        "Fire"
+    ],
+    "type": "Forward",
+    "rarity": "Hero",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}
