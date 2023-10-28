@@ -4,10 +4,10 @@
     "number": 25,
     "name": "Kiros",
     "abilities": [
-        "~Warp 1~ - {i}",
-		"When Kiros or a Forward enters your field due to Warp, choose 1 Character. *Dull* it and *Freeze* it."
+        "~Warp 1~ — {i}",
+        "When Kiros or a Forward enters your field due to Warp, choose 1 Character. *Dull* it and *Freeze* it."
     ],
-	"power": 7000,
+    "power": 7000,
     "categories": [
         "VIII"
     ],

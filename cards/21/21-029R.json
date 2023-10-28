@@ -5,14 +5,14 @@
     "name": "Squall",
     "abilities": [
         "*First Strike*",
-        "When Squall attacks, if you control 2 or more ~Category WOFF Characters~, your opponent discards 1 card.",
-        "{0} Choose 1 blocking Forward. Deal it 3000 damage. You can only use this ability once per turn"
+        "When Squall attacks, if you control 2 or more ~Category WOFF~ Characters, your opponent discards 1 card.",
+        "{0}: Choose 1 blocking Forward. Deal it 3000 damage. You can only use this ability once per turn"
     ],
     "power": 7000,
     "categories": [
         "WOFF"
     ],
-    "job": [
+    "jobs": [
         "Mercenary"
     ],
     "cost": 3,

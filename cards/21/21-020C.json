@@ -4,10 +4,10 @@
     "number": 20,
     "name": "Lehftia",
     "abilities": [
-		"If your Fire Summon or a Fire Character you control deals damage to a Forward, the damage increases by 2000 instead.",
-		"~Damage 3~ - When Lehftia enters the field, choose 1 Forward opponent controls. Deal it 6000 damage."
+        "If your Fire Summon or a Fire Character you control deals damage to a Forward, the damage increases by 2000 instead.",
+        "~Damage 3~ — When Lehftia enters the field, choose 1 Forward opponent controls. Deal it 6000 damage."
     ],
-	"power": 5000,
+    "power": 5000,
     "categories": [
         "FFBE"
     ],
