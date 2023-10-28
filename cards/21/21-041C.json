@@ -18,7 +18,7 @@
         "Wind"
     ],
     "type": "Monster",
-    "rarity": "Common",
+    "rarity": "C",
     "isExBurst": false,
     "isMultiPlayable": true,
     "isSpecial": false

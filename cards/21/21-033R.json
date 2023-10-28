@@ -7,6 +7,9 @@
         "When The Girl Who Forgot Her Name enters the field, you may *search* for 1 ~Category WOFF~ Forward and add it to your hand."
     ],
     "categories": [
+        "WOFF"
+    ],
+    "job": [
         "Girl"
     ],
     "cost": 3,
@@ -14,7 +17,7 @@
         "Ice"
     ],
     "type": "Backup",
-    "rarity": "Rare",
+    "rarity": "R",
     "isExBurst": false,
     "isMultiPlayable": false,
     "isSpecial": false
