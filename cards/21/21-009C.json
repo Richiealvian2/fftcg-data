@@ -4,9 +4,9 @@
     "number": 9,
     "name": "Warrior",
     "abilities": [
-        "Put Warrior into the Break Zone: Choose 1 ~Job Warrior Forward~ or ~Card Name Warrior Forward~ you control. Dull it and it gains \"This Forward cannot be broken.\" until the end of the turn."
+        "Put Warrior into the Break Zone: Choose 1 ~Job Warrior~ Forward or ~Card Name Warrior~ Forward you control. *Dull* it and it gains \"This Forward cannot be broken.\" until the end of the turn."
     ],
-	"power": 7000,
+    "power": 7000,
     "categories": [
         "XIV"
     ],
