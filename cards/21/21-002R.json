@@ -1,11 +1,11 @@
 {
-    "serial": "21-006R",
+    "serial": "21-002R",
     "opus": 21,
-    "number": 6,
+    "number": 2,
     "name": "Edgar",
     "abilities": [
         "When Edgar enters the field, you may play 1 Character of cost 2 or less from your hand onto the field.",
-		"{d}, put Edgar into the Break Zone: Play 1 Character of cost 2 or less from your hand onto the field."
+	"{d}, put Edgar into the Break Zone: Play 1 Character of cost 2 or less from your hand onto the field."
     ],
     "categories": [
         "WOFF"
