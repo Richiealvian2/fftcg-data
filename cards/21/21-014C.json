@@ -1,7 +1,7 @@
 {
     "serial": "21-014C",
     "opus": 21,
-    "number": 014,
+    "number": 14,
     "name": "Bomb",
     "abilities": [
 		"{f}{d}, put Bomb into the Break Zone: Choose 1 Forward. Deal it 4000 damage. Then, search for 1 ~Card Name Bomb~ and play it onto the field."

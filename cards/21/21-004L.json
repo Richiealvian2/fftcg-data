@@ -1,10 +1,10 @@
 {
     "serial": "21-004L",
     "opus": 21,
-    "number": 004,
+    "number": 4,
     "name": "Cyan",
     "abilities": [
-        "When Cyan enters the field, you may pay 《X》. When you do so, gain 	{c} for each CP paid as X. The maximum you can pay for [X] is 5.",
+        "When Cyan enters the field, you may pay 《X》. When you do so, gain {c} for each CP paid as X. The maximum you can pay for [X] is 5.",
         "{x} When Ward enters the field, choose 1 Forward. Deal it 7000 damage."
     ],
 	"power": 7000,
