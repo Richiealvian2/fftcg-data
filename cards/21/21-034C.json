@@ -21,6 +21,6 @@
     "type": "Monster",
     "rarity": "Common",
     "isExBurst": false,
-    "isMultiPlayable": false,
+    "isMultiPlayable": true,
     "isSpecial": false
 }
