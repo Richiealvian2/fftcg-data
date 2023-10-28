@@ -1,5 +1,5 @@
 {
-    "serial": "21-034R",
+    "serial": "21-034C",
     "opus": 21,
     "number": 34,
     "name": "Fomor",
@@ -9,7 +9,7 @@
     ],
     "categories": [
         "MOBIUS",
-		"XI"
+        "XI"
     ],
     "jobs": [
         "Undead"

@@ -5,7 +5,7 @@
     "name": "Fran",
     "abilities": [
         "The ~Card Name Balthier~ you control cannot be chosen by your opponent's abilities.",
-        "{w}: Play Fran onto the field dull. You can only use this ability if a ~Card Name Balthier~ has entered your field this turn and if Fran is in the Break Zone."
+        "{w}: Play Fran onto the field *dull*. You can only use this ability if a ~Card Name Balthier~ has entered your field this turn and if Fran is in the Break Zone."
     ],
     "power": 3000,
     "categories": [
