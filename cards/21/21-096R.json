@@ -1,0 +1,27 @@
+{
+    "serial": "21-096R",
+    "opus": 21,
+    "number": 96,
+    "name": "Nine",
+    "abilities": [
+        "If Nine is dealt damage, reduce the damage by 2000 instead.",
+        "{0}: Choose 1 Forward. Dull it. You can only use this ability if you control 2 or more Job Class Zero Cadet and only once per turn."
+    ],
+    "power": 7000,
+    "categories": [
+        "DFF",
+        "TYPE-0"
+    ],
+    "job": [
+        "Class Zero Cadet"
+    ],
+    "cost": 3,
+    "elements": [
+        "Lightning"
+    ],
+    "type": "Forward",
+    "rarity": "R",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}

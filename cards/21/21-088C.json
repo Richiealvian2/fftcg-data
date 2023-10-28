@@ -1,0 +1,28 @@
+{
+    "serial": "21-088C",
+    "opus": 21,
+    "number": 88,
+    "name": "Gilgamesh",
+    "abilities": [
+        "When Gilgamesh is put from the field into the Break Zone, gain {c}.",
+        "{c}: Until the end of the turn, Gilgamesh gains *Haste*, *Brave* and \"Gilgamesh can attack twice in the same turn.\"",
+        "~Damage 3~ - Gilgamesh gains +1000 power."
+    ],
+    "power": 8000,
+    "categories": [
+        "DFF",
+        "V"
+    ],
+    "job": [
+        "Praetorian"
+    ],
+    "cost": 4,
+    "elements": [
+        "Lightning"
+    ],
+    "type": "Forward",
+    "rarity": "C",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}

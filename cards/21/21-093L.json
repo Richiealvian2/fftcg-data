@@ -1,0 +1,26 @@
+{
+    "serial": "21-093L",
+    "opus": 21,
+    "number": 93,
+    "name": "Xande",
+    "abilities": [
+        "When Xande enters the field, choose 1 Forward opponent controls. If you control 4 or more Lightning Characters, break it.",
+        "When Xande enters the field, choose 1 Forward in your Break Zone. If you control 8 or more Lightning Characters, play it onto the field."
+    ],
+	"power": 9000,
+    "categories": [
+        "III"
+    ],
+    "jobs": [
+        "Dark Lord"
+    ],
+    "cost": 5,
+    "elements": [
+        "Lightning"
+    ],
+    "type": "Forward",
+    "rarity": "L",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}

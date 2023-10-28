@@ -1,0 +1,26 @@
+{
+    "serial": "21-097R",
+    "opus": 21,
+    "number": 97,
+    "name": "Neilikka",
+    "abilities": [
+        "If you control 2 or more ~Category FFBE~ Characters, Neilikka gains *Haste*.",
+        "When Neilikka attacks, choose 1 Forward opponent controls. *Dull* it and deal it 3000 damage."
+    ],
+    "power": 5000,
+    "categories": [
+        "FFBE"
+    ],
+    "job": [
+        "Caledfwlch"
+    ],
+    "cost": 2,
+    "elements": [
+        "Lightning"
+    ],
+    "type": "Forward",
+    "rarity": "R",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}

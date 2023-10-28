@@ -1,0 +1,21 @@
+{
+    "serial": "21-084H",
+    "opus": 21,
+    "number": 84,
+    "name": "Odin",
+    "abilities": [
+        "Choose 1 Forward or Monster of cost 4 or less. Break it. If you control 5 or more Lightning Characters, also draw 1 card."
+    ],
+    "categories": [
+        "III"
+    ],
+    "cost": 3,
+    "elements": [
+        "Lightning"
+    ],
+    "type": "Summon",
+    "rarity": "H",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}

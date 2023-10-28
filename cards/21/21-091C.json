@@ -1,0 +1,25 @@
+{
+    "serial": "21-091C",
+    "opus": 21,
+    "number": 91,
+    "name": "Black Knight",
+    "abilities": [
+        "When Black Knight enters the field, choose 1 Forward or Monster of cost 2 or less opponent controls. Break it.",
+        "{l}{l}{3}, put Black Knight into the Break Zone: Choose 1 Forward or Monster. Break it."
+    ],
+    "categories": [
+        "II"
+    ],
+    "jobs": [
+        "Black Knight"
+    ],
+    "cost": 2,
+    "elements": [
+        "Lightning"
+    ],
+    "type": "Monster",
+    "rarity": "C",
+    "isExBurst": false,
+    "isMultiPlayable": true,
+    "isSpecial": false
+}
