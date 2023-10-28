@@ -1,0 +1,29 @@
+{
+    "serial": "21-132S",
+    "opus": 21,
+    "number": 132,
+    "name": "Cecil",
+    "abilities": [
+        "Cecil cannot be chosen by your opponent's abilities.",
+        "If Cecil is dealt damage by your opponent's abilities, the damage becomes 0 instead.",
+        "The ~Category DFF~ Forwards other than Cecil you control gain +2000 power.",
+        "%Paladin Force% {s}{w}: Choose 1 Forward of cost 4 or more. Break it."
+    ],
+	"power": 8000,
+    "categories": [
+        "DFF",
+        "IV"
+    ],
+    "jobs": [
+        "Paladin"
+    ],
+    "cost": 4,
+    "elements": [
+        "Wind"
+    ],
+    "type": "Forward",
+    "rarity": "S",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}

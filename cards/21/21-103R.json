@@ -1,0 +1,26 @@
+{
+    "serial": "21-103R",
+    "opus": 21,
+    "number": 103,
+    "name": "Kraken",
+    "abilities": [
+        "When Kraken enters the field, draw 1 card.",
+        "When Kraken enters the field, choose 1 Forward. If you control 7 or more Water Characters, it loses 10000 power."
+    ],
+	"power": 8000,
+    "categories": [
+        "SOPFFO"
+    ],
+    "jobs": [
+        "Chaos"
+    ],
+    "cost": 5,
+    "elements": [
+        "Water"
+    ],
+    "type": "Forward",
+    "rarity": "R",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}

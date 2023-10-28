@@ -1,0 +1,28 @@
+{
+    "serial": "21-124L",
+    "opus": 21,
+    "number": 124,
+    "name": "Jack Garland",
+    "abilities": [
+        "Jack Garland is also ~Card Name Garland~ in all situations.",
+        "*Brave*",
+        "When Jack Garland enters the field, you may *search* for 1 Category SOPFFO Forward and add it to your hand.",
+        "{d}: Choose 1 Dark Character. Break it. Jack Garland deals you 1 point of damage."
+    ],
+	"power": 9000,
+    "categories": [
+        "SOPFFO"
+    ],
+    "jobs": [
+        "Chaos"
+    ],
+    "cost": 3,
+    "elements": [
+        "Dark"
+    ],
+    "type": "Forward",
+    "rarity": "L",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}

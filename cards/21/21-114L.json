@@ -1,0 +1,28 @@
+{
+    "serial": "21-114L",
+    "opus": 21,
+    "number": 114,
+    "name": "Faris",
+    "abilities": [
+        "The power of the ~Job Pirate Forwards~ and ~Card Name Viking Forwards~ other than Faris you control becomes 8000.",
+        "{0}: Choose 1 Summon or ability that is choosing only Faris. You may choose another Water Forward you control (The newly chosen Forward must be a valid choice)."
+    ],
+	"power": 8000,
+    "categories": [
+        "MOBIUS",
+        "V"
+    ],
+    "jobs": [
+        "Pirate",
+        "Warrior of Light"
+    ],
+    "cost": 4,
+    "elements": [
+        "Water"
+    ],
+    "type": "Forward",
+    "rarity": "L",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}

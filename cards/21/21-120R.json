@@ -1,0 +1,25 @@
+{
+    "serial": "21-120R",
+    "opus": 21,
+    "number": 120,
+    "name": "Refia",
+    "abilities": [
+        "When Refia enters the field, choose 1 ~Category WOFF~ Forward of cost 4 or less in your Break Zone. Play it onto the field.",
+        "{d}, put Refia into the Break Zone: Choose 1 Forward. During this turn, the next damage dealt to it is reduced by 3000 instead."
+    ],
+    "categories": [
+        "WOFF"
+    ],
+    "jobs": [
+        "White Mage"
+    ],
+    "cost": 5,
+    "elements": [
+        "Water"
+    ],
+    "type": "Backup",
+    "rarity": "R",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}

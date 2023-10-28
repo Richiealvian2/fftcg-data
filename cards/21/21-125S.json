@@ -1,0 +1,29 @@
+{
+    "serial": "21-125S",
+    "opus": 21,
+    "number": 125,
+    "name": "Onion Knight",
+    "abilities": [
+        "*Haste*",
+        "When Onion Knight enters the field, you may pay {c}{c}. When you do so, you may search for 1 ~Category DFF~ Forward of cost 3 or less and play it onto the field.",
+        "%Sword and Magic% {s}: Deal 10000 damage to the Forward that blocks Onion Knight."
+    ],
+	"power": 8000,
+    "categories": [
+        "DFF",
+        "III"
+    ],
+    "jobs": [
+        "Onion Knight",
+        "Warrior of Light"
+    ],
+    "cost": 4,
+    "elements": [
+        "Fire"
+    ],
+    "type": "Forward",
+    "rarity": "S",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": true
+}

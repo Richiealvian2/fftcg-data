@@ -1,0 +1,27 @@
+{
+    "serial": "21-129S",
+    "opus": 21,
+    "number": 129,
+    "name": "Terra",
+    "abilities": [
+        "When Terra enters the field, your opponent discards 1 card from their hand. If you control 2 or more ~Category DFF~ Forwards, also gain {c}.",
+        "{c}{d}: Choose 1 Forward. *Dull* it and *Freeze* it. Draw 1 card."
+    ],
+	"power": 7000,
+    "categories": [
+        "DFF",
+        "VI"
+    ],
+    "jobs": [
+        "Magitek Knight"
+    ],
+    "cost": 3,
+    "elements": [
+        "Ice"
+    ],
+    "type": "Forward",
+    "rarity": "S",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}

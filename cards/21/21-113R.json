@@ -1,0 +1,26 @@
+{
+    "serial": "21-113R",
+    "opus": 21,
+    "number": 113,
+    "name": "Bikke",
+    "abilities": [
+        "If you control 2 or more ~Job Pirate~ and/or ~Card Name Viking~, the cost required to cast Bikke is reduced by 4.",
+        "The ~Job Pirate~ Forwards and ~Card Name Viking~ Forwards other than Bikke you control gain \"If this Forward is dealt damage by your opponent's abilities, the damage becomes 0 instead.\""
+    ],
+	"power": 8000,
+    "categories": [
+        "SOPFFO"
+    ],
+    "jobs": [
+        "Pirate"
+    ],
+    "cost": 4,
+    "elements": [
+        "Water"
+    ],
+    "type": "Forward",
+    "rarity": "R",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}

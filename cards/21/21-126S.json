@@ -1,0 +1,27 @@
+{
+    "serial": "21-126S",
+    "opus": 21,
+    "number": 126,
+    "name": "Cloud",
+    "abilities": [
+        "You can pay {c}{c} (instead of paying the CP cost) to cast Cloud.",
+        "{x} When Cloud enters the field, choose 1 Forward. Deal it 3000 damage for each ~Category DFF~ Forward you control."
+    ],
+	"power": 9000,
+    "categories": [
+        "DFF",
+        "III"
+    ],
+    "jobs": [
+        "Soldier"
+    ],
+    "cost": 5,
+    "elements": [
+        "Fire"
+    ],
+    "type": "Forward",
+    "rarity": "S",
+    "isExBurst": true,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}

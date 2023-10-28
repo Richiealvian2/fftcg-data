@@ -1,0 +1,22 @@
+{
+    "serial": "21-116H",
+    "opus": 21,
+    "number": 116,
+    "name": "Leviathan",
+    "abilities": [
+        "During your turn, the cost required to cast Leviathan is reduced by 2.",
+        "Choose 1 Forward. Put it at the bottom of its owner's deck. Then, you may play 1 Forward of cost 2 or less from your hand onto the field."
+    ],
+    "categories": [
+        "III"
+    ],
+    "cost": 6,
+    "elements": [
+        "Water"
+    ],
+    "type": "Summon",
+    "rarity": "H",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}
