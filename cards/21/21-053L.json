@@ -1,0 +1,26 @@
+{
+    "serial": "21-053L",
+    "opus": 21,
+    "number": 53,
+    "name": "Balthier",
+    "abilities": [
+        "When Balthier or a Wind Character enters your field, choose 1 Forward opponent controls. Deal it 3000 damage.",
+        "Discard 1 ~Job Sky Pirate~: *Activate* all the Characters you control. You can only use this ability once per turn."
+    ],
+    "power": 8000,
+    "categories": [
+        "XII"
+    ],
+    "job": [
+        "Sky Pirate"
+    ],
+    "cost": 4,
+    "elements": [
+        "Wind"
+    ],
+    "type": "Forward",
+    "rarity": "Legend",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}

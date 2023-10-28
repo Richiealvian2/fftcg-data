@@ -1,0 +1,24 @@
+{
+    "serial": "21-045C",
+    "opus": 21,
+    "number": 45,
+    "name": "Princess Goblin",
+    "abilities": [
+        "When Princess Goblin enters the field, you may search for 1 ~Card Name Warrior of Light~ or ~Card Name Princess Sarah~ and add it to your hand."
+    ],
+    "categories": [
+        "WOFF"
+    ],
+    "job": [
+        "Goblin"
+    ],
+    "cost": 3,
+    "elements": [
+        "Wind"
+    ],
+    "type": "Backup",
+    "rarity": "Common",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}

@@ -1,0 +1,27 @@
+{
+    "serial": "21-055H",
+    "opus": 21,
+    "number": 55,
+    "name": "Penelo",
+    "abilities": [
+        "When Penelo enters the field, choose 2 Characters. If you control 2 or more ~Job Sky Pirate~ Forwards, *activate* them.",
+        "When Penelo is put from the field into the Break Zone, choose 1 ~Job Sky Pirate~ of cost 3 or more in your Break Zone. Add it to your hand."
+    ],
+    "power": 5000,
+    "categories": [
+        "XII"
+    ],
+    "job": [
+        "Dancer",
+        "Sky Pirate"
+    ],
+    "cost": 2,
+    "elements": [
+        "Wind"
+    ],
+    "type": "Forward",
+    "rarity": "Hero",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}

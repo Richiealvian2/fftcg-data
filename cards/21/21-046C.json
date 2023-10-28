@@ -1,0 +1,25 @@
+{
+    "serial": "21-046C",
+    "opus": 21,
+    "number": 46,
+    "name": "Cid (II)",
+    "abilities": [
+        " When Cid (II) enters the field, you may *search* for 1 card with Warp and add it to your hand.",
+        "{d}, put Cid (II) into the Break Zone: Choose 1 card removed from the game. Remove 1 Warp Counter from it. You can only use this ability during your turn."
+    ],
+    "categories": [
+        "II"
+    ],
+    "job": [
+        "Engineer"
+    ],
+    "cost": 4,
+    "elements": [
+        "Wind"
+    ],
+    "type": "Backup",
+    "rarity": "Common",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}

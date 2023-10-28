@@ -1,0 +1,26 @@
+{
+    "serial": "21-060R",
+    "opus": 21,
+    "number": 60,
+    "name": "Rikku",
+    "abilities": [
+        "{x} When Rikku enters the field, reveal the top card of your deck. If it is a Wind card, add it to your hand.",
+        "~Damage 3~ - Rikku gains +2000 power."
+    ],
+    "power": 5000,
+    "categories": [
+        "WOFF"
+    ],
+    "job": [
+        "Treasure Hunter"
+    ],
+    "cost": 2,
+    "elements": [
+        "Wind"
+    ],
+    "type": "Forward",
+    "rarity": "Rare",
+    "isExBurst": true,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}

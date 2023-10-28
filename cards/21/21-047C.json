@@ -1,0 +1,26 @@
+{
+    "serial": "21-047C",
+    "opus": 21,
+    "number": 47,
+    "name": "Summoner",
+    "abilities": [
+        "When Summoner enters the field, you may *search* for 1 Wind Summon and add it to your hand.",
+        "When you cast a Summon, Summoner gains +2000 power until the end of the turn."
+    ],
+    "power": 5000,
+    "categories": [
+        "XIV"
+    ],
+    "job": [
+        "Standard Unit"
+    ],
+    "cost": 4,
+    "elements": [
+        "Wind"
+    ],
+    "type": "Forward",
+    "rarity": "Common",
+    "isExBurst": false,
+    "isMultiPlayable": true,
+    "isSpecial": false
+}

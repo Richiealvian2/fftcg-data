@@ -1,0 +1,24 @@
+{
+    "serial": "21-054H",
+    "opus": 21,
+    "number": 54,
+    "name": "Pandemonium",
+    "abilities": [
+        "Select 1 of the 2 following actions. If you have cast 2 or more cards other than Pandemonium this turn, select up to 2 of the 2 following actions instead.",
+        "Choose 1 Forward of cost 5 or more. Deal it 8000 damage.",
+        "*Search* for 1 Wind Forward of cost 5 or more and add it to your hand."
+    ],
+    "categories": [
+        "MOBIUS",
+        "VII"
+    ],
+    "cost": 2,
+    "elements": [
+        "Ice"
+    ],
+    "type": "Summon",
+    "rarity": "Hero",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}

@@ -1,0 +1,25 @@
+{
+    "serial": "21-052R",
+    "opus": 21,
+    "number": 52,
+    "name": "Niini",
+    "abilities": [
+		"When Niini enters the field, look at the top card of your deck. You may place the card at the bottom of your deck. If you have cast 3 or more cards this turn, also draw 1 card."
+    ],
+	"power": 3000,
+    "categories": [
+        "FFBE"
+    ],
+    "jobs": [
+        "Artificial Fairy"
+    ],
+    "cost": 1,
+    "elements": [
+        "Wind"
+    ],
+    "type": "Forward",
+    "rarity": "Rare",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}
