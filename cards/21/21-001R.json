@@ -7,7 +7,7 @@
         "You can only pay with Fire CP to cast Ward.",
         "{x} When Ward enters the field, choose 1 Forward. Deal it 7000 damage."
     ],
-	"power": 8000,
+    "power": 8000,
     "categories": [
         "VIII"
     ],
