@@ -1,0 +1,26 @@
+{
+    "serial": "21-025R",
+    "opus": 21,
+    "number": 25,
+    "name": "Kiros",
+    "abilities": [
+        "~Warp 1~ - {i}",
+		"When Kiros or a Forward enters your field due to Warp, choose 1 Character. *Dull* it and *Freeze* it."
+    ],
+	"power": 7000,
+    "categories": [
+        "VIII"
+    ],
+    "jobs": [
+        "Warrior"
+    ],
+    "cost": 3,
+    "elements": [
+        "Ice"
+    ],
+    "type": "Forward",
+    "rarity": "Rare",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}

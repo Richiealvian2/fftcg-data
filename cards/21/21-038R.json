@@ -1,0 +1,26 @@
+{
+    "serial": "21-038R",
+    "opus": 21,
+    "number": 38,
+    "name": "Rinoa",
+    "abilities": [
+        "You can cast Summons removed by Rinoa's abilities at any time you could normally cast them.",
+        "When Rinoa enters the field, choose 1 Summon in your Break Zone. Remove it from the game."
+    ],
+    "categories": [
+        "THEATRHYTHM",
+        "VIII"
+    ],
+    "job": [
+        "Resistance Fighter"
+    ],
+    "cost": 3,
+    "elements": [
+        "Ice"
+    ],
+    "type": "Backup",
+    "rarity": "Rare",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}

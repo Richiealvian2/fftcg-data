@@ -1,0 +1,26 @@
+{
+    "serial": "21-034R",
+    "opus": 21,
+    "number": 34,
+    "name": "Fomor",
+    "abilities": [
+        "When Fomor enters the field, choose 1 *dull* Forward. Deal it 4000 damage.",
+        "{d}, put Fomor into the Break Zone: Choose 1 *dull* Forward. Deal it 4000 damage. If your opponent has 2 cards or less in their hand, deal it 7000 damage instead."
+    ],
+    "categories": [
+        "MOBIUS",
+		"XI"
+    ],
+    "jobs": [
+        "Undead"
+    ],
+    "cost": 2,
+    "elements": [
+        "Ice"
+    ],
+    "type": "Monster",
+    "rarity": "Common",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}

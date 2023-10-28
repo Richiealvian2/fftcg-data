@@ -1,0 +1,26 @@
+{
+    "serial": "21-035C",
+    "opus": 21,
+    "number": 35,
+    "name": "Minwu",
+    "abilities": [
+        "When Minwu enters the field, choose 1 Character. *Freeze* it.",
+        "{1}{d}, put Minwu into the Break Zone: Choose 1 Character. *Dull* it and *Freeze* it."
+    ],
+    "categories": [
+        "II"
+    ],
+    "job": [
+        "White Mage",
+        "Rebel"
+    ],
+    "cost": 2,
+    "elements": [
+        "Ice"
+    ],
+    "type": "Backup",
+    "rarity": "Common",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}

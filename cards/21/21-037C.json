@@ -1,0 +1,27 @@
+{
+    "serial": "21-037C",
+    "opus": 21,
+    "number": 37,
+    "name": "Reaper",
+    "abilities": [
+        "When Reaper enters the field, select 1 of the 2 following actions.",
+        "Choose 1 *dull* Forward of cost 3 or less. Break it.",
+        "Your opponent discards 1 card."
+    ],
+    "power": 5000,
+    "categories": [
+        "XIV"
+    ],
+    "job": [
+        "Standard Unit"
+    ],
+    "cost": 3,
+    "elements": [
+        "Ice"
+    ],
+    "type": "Forward",
+    "rarity": "Common",
+    "isExBurst": false,
+    "isMultiPlayable": true,
+    "isSpecial": false
+}

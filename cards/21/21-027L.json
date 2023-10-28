@@ -1,0 +1,29 @@
+{
+    "serial": "21-027L",
+    "opus": 21,
+    "number": 27,
+    "name": "Griever",
+    "abilities": [
+        "When Griever is put from the field into the Break Zone, you may search for 1 ~Job Witch~ and play it onto the field.",
+		"{d}: Select 1 of the 2 following actions.",
+		"Choose 1 *dull* Forward opponent controls. Break it.",
+		"Your opponent discards 1 card."
+    ],
+	"power": 9000,
+    "categories": [
+        "MOBIUS",
+        "VIII"
+    ],
+    "jobs": [
+        "Griever"
+    ],
+    "cost": 6,
+    "elements": [
+        "Ice"
+    ],
+    "type": "Forward",
+    "rarity": "Legend",
+    "isExBurst": false,
+    "isMultiPlayable": true,
+    "isSpecial": false
+}

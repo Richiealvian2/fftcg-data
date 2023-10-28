@@ -1,0 +1,27 @@
+{
+    "serial": "21-036H",
+    "opus": 21,
+    "number": 36,
+    "name": "Y'shtola",
+    "abilities": [
+        "If your opponent has 2 or less cards in their hand, Y'shtola gains *Haste*.",
+        "When Y'shtola attacks, choose 1 Forward opponent controls. Deal it 9000 damage minus 1000 damage for each card in your opponent's hand."
+    ],
+    "power": 8000,
+    "categories": [
+        "DFF",
+        "XIV"
+    ],
+    "job": [
+        "Scion of the Seventh Dawn"
+    ],
+    "cost": 4,
+    "elements": [
+        "Ice"
+    ],
+    "type": "Forward",
+    "rarity": "Hero",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}

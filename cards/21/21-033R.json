@@ -1,0 +1,21 @@
+{
+    "serial": "21-033R",
+    "opus": 21,
+    "number": 33,
+    "name": "The Girl Who Forgot Her Name",
+    "abilities": [
+        "When The Girl Who Forgot Her Name enters the field, you may *search* for 1 ~Category WOFF~ Forward and add it to your hand."
+    ],
+    "categories": [
+        "Girl"
+    ],
+    "cost": 3,
+    "elements": [
+        "Ice"
+    ],
+    "type": "Backup",
+    "rarity": "Rare",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}
