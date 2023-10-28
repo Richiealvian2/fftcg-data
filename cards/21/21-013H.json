@@ -4,7 +4,7 @@
     "number": 13,
     "name": "Feolthanos",
     "abilities": [
-		"When your opponent uses an EX Burst, Feolthanos deals your opponent 3 points of damage."
+		"When your opponent uses an EX Burst, Feolthanos deals your opponent 3 points of damage.",
 		"When Feolthanos is put from the field into the Break Zone, choose up to 2 Forwards. Deal them 9000 damage."
     ],
 	"power": 9000,
