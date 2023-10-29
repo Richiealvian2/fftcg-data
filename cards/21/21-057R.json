@@ -1,0 +1,26 @@
+{
+    "serial": "21-057R",
+    "opus": 21,
+    "number": 57,
+    "name": "Fran",
+    "abilities": [
+        "The ~Card Name Balthier~ you control cannot be chosen by your opponent's abilities.",
+        "{w}: Play Fran onto the field *dull*. You can only use this ability if a ~Card Name Balthier~ has entered your field this turn and if Fran is in the Break Zone."
+    ],
+    "power": 3000,
+    "categories": [
+        "XII"
+    ],
+    "jobs": [
+        "Sky Pirate"
+    ],
+    "cost": 1,
+    "elements": [
+        "Wind"
+    ],
+    "type": "Forward",
+    "rarity": "R",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}

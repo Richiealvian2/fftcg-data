@@ -1,0 +1,26 @@
+{
+    "serial": "21-081L",
+    "opus": 21,
+    "number": 81,
+    "name": "Irvine",
+    "abilities": [
+        "When Irvine enters the field or attacks, choose up to 2 cards in your opponent's Break Zone. Remove them from the game. If 2 Characters are removed from the game by this effect, until the end of the turn, Irvine gains +2000 power, *Haste*, and *First Strike*.",
+        "%Armor Shot% {s}[Lightning]: Choose 1 Forward or Monster of cost 5 or less. Break it."
+    ],
+	"power": 7000,
+    "categories": [
+        "VIII"
+    ],
+    "jobs": [
+        "Sniper"
+    ],
+    "cost": 3,
+    "elements": [
+        "Lightning"
+    ],
+    "type": "Forward",
+    "rarity": "L",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": true
+}

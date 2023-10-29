@@ -1,0 +1,26 @@
+{
+    "serial": "21-015R",
+    "opus": 21,
+    "number": 15,
+    "name": "Marilith",
+    "abilities": [
+		"When Marilith enters the field, choose 1 Forward opponent controls. Deal it 8000 damage.",
+		"When Marilith enters the field, choose up to 2 Forwards. If you control 7 or more Fire Characters, they gain *Haste* until the end of the turn."
+    ],
+	"power": 5000,
+    "categories": [
+        "SOPFFO"
+    ],
+    "jobs": [
+        "Chaos"
+    ],
+    "cost": 4,
+    "elements": [
+        "Fire"
+    ],
+    "type": "Forward",
+    "rarity": "R",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}

@@ -1,0 +1,27 @@
+{
+    "serial": "21-075R",
+    "opus": 21,
+    "number": 75,
+    "name": "Haveh",
+    "abilities": [
+        "The power of Forwards opponent controls cannot be increased by your opponent's Summons or abilities.",
+        "The ~Job Warrior~ you control gain \"This Character cannot be broken by opposing Summons or abilities that don't deal damage.\"",
+        "~Damage 3~ - Haveh gains +1000 power and Brave."
+    ],
+    "power": 9000,
+    "categories": [
+        "FFBE"
+    ],
+    "jobs": [
+        "Warrior"
+    ],
+    "cost": 5,
+    "elements": [
+        "Earth"
+    ],
+    "type": "Forward",
+    "rarity": "R",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}

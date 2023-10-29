@@ -1,0 +1,26 @@
+{
+    "serial": "21-095C",
+    "opus": 21,
+    "number": 95,
+    "name": "Trey",
+    "abilities": [
+        "{x} When Trey enters the field, choose 1 ~Job Class Zero Cadet~ in your Break Zone. Add it to your hand.",
+        "%Dynamite Arrow% {s}{l}{1}{d}: Choose 1 Forward. Deal it 9000 damage."
+    ],
+    "categories": [
+        "DFF",
+        "TYPE-0"
+    ],
+    "jobs": [
+        "Class Zero Cadet"
+    ],
+    "cost": 3,
+    "elements": [
+        "Lightning"
+    ],
+    "type": "Backup",
+    "rarity": "C",
+    "isExBurst": true,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}

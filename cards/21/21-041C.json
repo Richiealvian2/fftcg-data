@@ -1,0 +1,25 @@
+{
+    "serial": "21-041C",
+    "opus": 21,
+    "number": 41,
+    "name": "Evil Weapon",
+    "abilities": [
+        "{d}, put Evil Weapon into the Break Zone: Choose 1 Forward opponent controls. Deal it 4000 damage. Gain {c}."
+    ],
+    "categories": [
+        "MOBIUS",
+        "XI"
+    ],
+    "jobs": [
+        "Evil Weapon"
+    ],
+    "cost": 1,
+    "elements": [
+        "Wind"
+    ],
+    "type": "Monster",
+    "rarity": "C",
+    "isExBurst": false,
+    "isMultiPlayable": true,
+    "isSpecial": false
+}

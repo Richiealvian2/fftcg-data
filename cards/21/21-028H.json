@@ -1,0 +1,22 @@
+{
+    "serial": "21-028H",
+    "opus": 21,
+    "number": 28,
+    "name": "Shiva",
+    "abilities": [
+        "If you cast Shiva, you may remove 4 Ice cards in your Break Zone from the game as an extra cost.",
+        "Choose 1 Character. *Dull* it and *Freeze* it. If you paid the extra cost, return Shiva to your hand."
+    ],
+    "categories": [
+        "III"
+    ],
+    "cost": 1,
+    "elements": [
+        "Ice"
+    ],
+    "type": "Summon",
+    "rarity": "H",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}

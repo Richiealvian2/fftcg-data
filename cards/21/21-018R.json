@@ -1,0 +1,27 @@
+{
+    "serial": "21-018R",
+    "opus": 21,
+    "number": 18,
+    "name": "Rain",
+    "abilities": [
+		"~Warp 2~ - {f}",
+		"*Haste*",
+		"When Rain enters the field due to an ability, choose 1 Forward opponent controls. Deal it 7000 damage."
+    ],
+	"power": 7000,
+    "categories": [
+        "FFBE"
+    ],
+    "jobs": [
+        "Knight"
+    ],
+    "cost": 3,
+    "elements": [
+        "Fire"
+    ],
+    "type": "Forward",
+    "rarity": "R",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}

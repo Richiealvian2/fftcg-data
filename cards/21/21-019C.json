@@ -1,0 +1,24 @@
+{
+    "serial": "21-019C",
+    "opus": 21,
+    "number": 19,
+    "name": "Reynn",
+    "abilities": [
+        "{d}, put Reynn into the Break Zone: Choose 1 Monster of cost 3 or less in your Break Zone. Play it onto the field. You can only use this ability during your turn."
+    ],
+    "categories": [
+        "WOFF"
+    ],
+    "jobs": [
+        "Mirage Keeper"
+    ],
+    "cost": 2,
+    "elements": [
+        "Fire"
+    ],
+    "type": "Backup",
+    "rarity": "C",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}

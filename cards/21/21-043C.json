@@ -1,0 +1,25 @@
+{
+    "serial": "21-043C",
+    "opus": 21,
+    "number": 43,
+    "name": "Viera",
+    "abilities": [
+        "When Viera enters the field, look at the top 2 cards of your deck. Add 1 card among them to your hand and put the other to the bottom of your deck.",
+        "{1}{d}, put Viera into the Break Zone: Look at the top 2 cards of your deck. Add 1 card among them to your hand and put the other to the bottom of your deck."
+    ],
+    "categories": [
+        "XII"
+    ],
+    "jobs": [
+        "Standard Unit"
+    ],
+    "cost": 3,
+    "elements": [
+        "Wind"
+    ],
+    "type": "Backup",
+    "rarity": "C",
+    "isExBurst": false,
+    "isMultiPlayable": true,
+    "isSpecial": false
+}

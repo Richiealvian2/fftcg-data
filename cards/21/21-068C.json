@@ -1,0 +1,26 @@
+{
+    "serial": "21-068C",
+    "opus": 21,
+    "number": 68,
+    "name": "Qiqirn",
+    "abilities": [
+        "When Qiqirn enters the field, reveal the top 5 cards of your deck. Add 1 Forward among them to your hand and return the other cards to the bottom of your deck in any order.",
+        "{e}{e}{1}{d}, put Qiqirn into the Break Zone: Choose 1 dull Forward. Break it."
+    ],
+    "categories": [
+        "MOBIUS",
+        "XI"
+    ],
+    "jobs": [
+        "Standard Unit"
+    ],
+    "cost": 3,
+    "elements": [
+        "Earth"
+    ],
+    "type": "Backup",
+    "rarity": "C",
+    "isExBurst": false,
+    "isMultiPlayable": true,
+    "isSpecial": false
+}

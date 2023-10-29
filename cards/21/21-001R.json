@@ -1,0 +1,26 @@
+{
+    "serial": "21-001R",
+    "opus": 21,
+    "number": 1,
+    "name": "Ward",
+    "abilities": [
+        "You can only pay with Fire CP to cast Ward.",
+        "{x} When Ward enters the field, choose 1 Forward. Deal it 7000 damage."
+    ],
+    "power": 8000,
+    "categories": [
+        "VIII"
+    ],
+    "jobs": [
+        "Warrior"
+    ],
+    "cost": 3,
+    "elements": [
+        "Fire"
+    ],
+    "type": "Forward",
+    "rarity": "R",
+    "isExBurst": true,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}

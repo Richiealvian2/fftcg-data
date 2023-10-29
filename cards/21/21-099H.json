@@ -1,0 +1,27 @@
+{
+    "serial": "21-099H",
+    "opus": 21,
+    "number": 99,
+    "name": "Firion",
+    "abilities": [
+        "If your opponent controls 4 or more *dull* Characters, Firion gains +5000 power, *Brave*, and \"Firion can attack twice in the same turn.\"",
+        "When Firion or a Forward enters your field, choose 1 Character opponent controls. *Dull* it."
+    ],
+    "power": 3000,
+    "categories": [
+        "II"
+    ],
+    "jobs": [
+        "Rebel",
+        "Warrior"
+    ],
+    "cost": 1,
+    "elements": [
+        "Lightning"
+    ],
+    "type": "Forward",
+    "rarity": "H",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}

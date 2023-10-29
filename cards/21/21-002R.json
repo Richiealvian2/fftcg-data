@@ -1,0 +1,25 @@
+{
+    "serial": "21-002R",
+    "opus": 21,
+    "number": 2,
+    "name": "Edgar",
+    "abilities": [
+        "When Edgar enters the field, you may play 1 Character of cost 2 or less from your hand onto the field.",
+	"{d}, put Edgar into the Break Zone: Play 1 Character of cost 2 or less from your hand onto the field."
+    ],
+    "categories": [
+        "WOFF"
+    ],
+    "jobs": [
+        "King"
+    ],
+    "cost": 3,
+    "elements": [
+        "Fire"
+    ],
+    "type": "Backup",
+    "rarity": "R",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}

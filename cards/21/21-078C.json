@@ -1,0 +1,26 @@
+{
+    "serial": "21-078C",
+    "opus": 21,
+    "number": 78,
+    "name": "Ram",
+    "abilities": [
+        "Ram enters the field *dull*.",
+        "{e}{d}: Choose 1 Forward. It gains +3000 power until the end of the turn. Ram will not *activate* during your next Active Phase."
+    ],
+    "categories": [
+        "MOBIUS",
+        "XI"
+    ],
+    "jobs": [
+        "Ram"
+    ],
+    "cost": 2,
+    "elements": [
+        "Earth"
+    ],
+    "type": "Monster",
+    "rarity": "C",
+    "isExBurst": false,
+    "isMultiPlayable": true,
+    "isSpecial": false
+}

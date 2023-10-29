@@ -1,0 +1,26 @@
+{
+    "serial": "21-069C",
+    "opus": 21,
+    "number": 69,
+    "name": "Krile",
+    "abilities": [
+        "When Krile enters the field, you may discard 1 Summon. When you do so, choose 1 Forward. Deal it 8000 damage.",
+        "{e}{e}{d}, put Krile into the Break Zone: Choose 1 Summon in your Break Zone. Add it to your hand."
+    ],
+    "categories": [
+        "THEATRHYTHM",
+        "V"
+    ],
+    "jobs": [
+        "Warrior of Light"
+    ],
+    "cost": 2,
+    "elements": [
+        "Earth"
+    ],
+    "type": "Backup",
+    "rarity": "C",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}

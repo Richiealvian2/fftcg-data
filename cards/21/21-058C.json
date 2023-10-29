@@ -1,0 +1,27 @@
+{
+    "serial": "21-058C",
+    "opus": 21,
+    "number": 58,
+    "name": "Machina",
+    "abilities": [
+        "If you control 2 or more ~Job Class Zero Cadet~, Machina gains +3000 power, *Haste*, and \"Machina cannot be chosen by your opponent's Summons.\"",
+        "%Armor Break% {s}{w}{w}: Choose 1 Forward of cost 5 or more. Break it."
+    ],
+    "power": 3000,
+    "categories": [
+        "THEATRHYTHM",
+        "TYPE-0"
+    ],
+    "jobs": [
+        "Class Zero Cadet"
+    ],
+    "cost": 2,
+    "elements": [
+        "Wind"
+    ],
+    "type": "Forward",
+    "rarity": "C",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": true
+}

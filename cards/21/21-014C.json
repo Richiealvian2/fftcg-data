@@ -1,0 +1,24 @@
+{
+    "serial": "21-014C",
+    "opus": 21,
+    "number": 14,
+    "name": "Bomb",
+    "abilities": [
+        "{f}{d}, put Bomb into the Break Zone: Choose 1 Forward. Deal it 4000 damage. Then, *search* for 1 ~Card Name Bomb~ and play it onto the field."
+    ],
+    "categories": [
+        "SOPFFO"
+    ],
+    "jobs": [
+        "Bomb"
+    ],
+    "cost": 1,
+    "elements": [
+        "Fire"
+    ],
+    "type": "Monster",
+    "rarity": "C",
+    "isExBurst": false,
+    "isMultiPlayable": true,
+    "isSpecial": false
+}

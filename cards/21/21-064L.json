@@ -1,0 +1,26 @@
+{
+    "serial": "21-064L",
+    "opus": 21,
+    "number": 64,
+    "name": "Ingus",
+    "abilities": [
+        "The cost required to cast Ingus is reduced by 1 for each Earth Backup you control.",
+        "{x} When Ingus enters the field, you may *search* for 1 Earth Forward other than ~Card Name Ingus~ and add it to your hand."
+    ],
+    "power": 9000,
+    "categories": [
+        "III"
+    ],
+    "jobs": [
+        "Warrior of Light"
+    ],
+    "cost": 6,
+    "elements": [
+        "Earth"
+    ],
+    "type": "Forward",
+    "rarity": "L",
+    "isExBurst": true,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}

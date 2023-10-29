@@ -1,0 +1,26 @@
+{
+    "serial": "21-042H",
+    "opus": 21,
+    "number": 42,
+    "name": "Vaan",
+    "abilities": [
+        "The cost required to cast Vaan is reduced by 1 for each Wind Character you control.",
+        "When Vaan enters the field, if you have cast 3 or more cards this turn, draw 1 card."
+    ],
+    "power": 9000,
+    "categories": [
+        "XII"
+    ],
+    "jobs": [
+        "Sky Pirate"
+    ],
+    "cost": 7,
+    "elements": [
+        "Wind"
+    ],
+    "type": "Forward",
+    "rarity": "H",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}

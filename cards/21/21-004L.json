@@ -1,0 +1,28 @@
+{
+    "serial": "21-004L",
+    "opus": 21,
+    "number": 4,
+    "name": "Cyan",
+    "abilities": [
+        "When Cyan enters the field, you may pay [X]. When you do so, gain {c} for each CP paid as X. The maximum you can pay for [X] is 5.",
+        "{c}: Cyan gains +3000 power until the end of the turn.",
+        "{c}: Choose 1 Forward. Deal it 3000 damage.",
+        "{c}{c}{c}{c}{c}: Deal 9000 damage to all the Forwards opponent controls."
+    ],
+    "power": 7000,
+    "categories": [
+        "VI"
+    ],
+    "jobs": [
+        "Samurai"
+    ],
+    "cost": 3,
+    "elements": [
+        "Fire"
+    ],
+    "type": "Forward",
+    "rarity": "L",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}

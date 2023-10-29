@@ -1,0 +1,26 @@
+{
+    "serial": "21-051R",
+    "opus": 21,
+    "number": 51,
+    "name": "Tiamat",
+    "abilities": [
+		"If you control 7 or more Wind Characters, Tiamat gains \"Tiamat cannot be chosen by your opponent's Summons or abilities.\" and \"If Tiamat is dealt damage by your opponent's Summons or abilities, the damage becomes 0 instead.\"",
+		"When Tiamat enters the field, choose 1 Character of cost 5 or more opponent controls. Break it."
+    ],
+	"power": 8000,
+    "categories": [
+        "SOPFFO"
+    ],
+    "jobs": [
+        "Chaos"
+    ],
+    "cost": 4,
+    "elements": [
+        "Wind"
+    ],
+    "type": "Forward",
+    "rarity": "R",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}

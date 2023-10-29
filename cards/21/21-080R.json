@@ -1,0 +1,24 @@
+{
+    "serial": "21-080R",
+    "opus": 21,
+    "number": 80,
+    "name": "Runda",
+    "abilities": [
+        "{d}: Choose 1 Forward you control. During this turn, the next damage dealt to it by Summons or abilities is reduced by 3000 instead."
+    ],
+    "categories": [
+        "FFBE"
+    ],
+    "jobs": [
+        "Mech"
+    ],
+    "cost": 2,
+    "elements": [
+        "Earth"
+    ],
+    "type": "Backup",
+    "rarity": "R",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}

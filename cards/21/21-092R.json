@@ -1,0 +1,26 @@
+{
+    "serial": "21-092R",
+    "opus": 21,
+    "number": 92,
+    "name": "Man in Black",
+    "abilities": [
+        "You cannot play Man in Black or ~Card Name Golbez~ while already in control of either Character.",
+        "At the beginning of the Attack Phase during each player's turn, choose up to 2 Forwards opponent controls. If your opponent doesn't pay {3}, they gain \"This Forward cannot attack or block.\" until the end of the turn."
+    ],
+    "power": 8000,
+    "categories": [
+        "IV"
+    ],
+    "jobs": [
+        "???"
+    ],
+    "cost": 4,
+    "elements": [
+        "Lightning"
+    ],
+    "type": "Forward",
+    "rarity": "R",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}

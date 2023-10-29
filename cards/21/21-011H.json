@@ -1,0 +1,26 @@
+{
+    "serial": "21-011H",
+    "opus": 21,
+    "number": 11,
+    "name": "Neon",
+    "abilities": [
+        "If a Fire Forward or a ~Category SOPFFO~ Forward you control deals damage to a Forward, the damage increases by 1000 instead.",
+        "When Neon enters the field, choose up to 2 Forwards. If you control 2 or more ~Category SOPFFO~ Forwards, deal them 7000 damage."
+    ],
+	"power": 8000,
+    "categories": [
+        "SOPFFO"
+    ],
+    "jobs": [
+        "Red Mage"
+    ],
+    "cost": 4,
+    "elements": [
+        "Fire"
+    ],
+    "type": "Forward",
+    "rarity": "H",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}

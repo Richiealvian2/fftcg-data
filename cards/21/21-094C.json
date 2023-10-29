@@ -1,0 +1,25 @@
+{
+    "serial": "21-094C",
+    "opus": 21,
+    "number": 94,
+    "name": "Shantotto",
+    "abilities": [
+        "When Shantotto enters the field, choose 1 Forward. Deal it 3000 damage for each different Element among Characters you control."
+    ],
+    "categories": [
+        "THEATRHYTHM",
+        "XI"
+    ],
+    "jobs": [
+        "Mage"
+    ],
+    "cost": 3,
+    "elements": [
+        "Lightning"
+    ],
+    "type": "Backup",
+    "rarity": "C",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}

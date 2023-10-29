@@ -1,0 +1,25 @@
+{
+    "serial": "21-009C",
+    "opus": 21,
+    "number": 9,
+    "name": "Warrior",
+    "abilities": [
+        "Put Warrior into the Break Zone: Choose 1 ~Job Warrior~ Forward or ~Card Name Warrior~ Forward you control. *Dull* it and it gains \"This Forward cannot be broken.\" until the end of the turn."
+    ],
+    "power": 7000,
+    "categories": [
+        "XIV"
+    ],
+    "jobs": [
+        "Standard Unit"
+    ],
+    "cost": 3,
+    "elements": [
+        "Fire"
+    ],
+    "type": "Forward",
+    "rarity": "C",
+    "isExBurst": false,
+    "isMultiPlayable": true,
+    "isSpecial": false
+}

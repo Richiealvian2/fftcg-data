@@ -1,0 +1,28 @@
+{
+    "serial": "21-089R",
+    "opus": 21,
+    "number": 89,
+    "name": "Queen",
+    "abilities": [
+        "*Haste*",
+        "If Queen is attacking, Queen gains \"If Queen is dealt damage, the damage becomes 0 instead.\" and \"Queen cannot be chosen by your opponent's Summons or abilities.\"",
+        "{l}{l}: Queen gains +2000 power until the end of the turn. You can only use this ability if you control 2 or more Job Class Zero Cadet."
+    ],
+    "power": 7000,
+    "categories": [
+        "DFF",
+        "TYPE-0"
+    ],
+    "jobs": [
+        "Class Zero Cadet"
+    ],
+    "cost": 3,
+    "elements": [
+        "Lightning"
+    ],
+    "type": "Forward",
+    "rarity": "R",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}

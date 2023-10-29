@@ -1,0 +1,27 @@
+{
+    "serial": "21-074L",
+    "opus": 21,
+    "number": 74,
+    "name": "Neo Exdeath",
+    "abilities": [
+        "Neo Exdeath is also ~Card Name Exdeath~ in all situations.",
+        "*Brave*",
+        "When Neo Exdeath enters the field, choose 2 Backups you control. Remove them, and all the Forwards and Monsters opponent controls from the game."
+    ],
+    "power": 10000,
+    "categories": [
+        "V"
+    ],
+    "jobs": [
+        "None"
+    ],
+    "cost": 8,
+    "elements": [
+        "Earth"
+    ],
+    "type": "Forward",
+    "rarity": "L",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}
