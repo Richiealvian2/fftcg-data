@@ -4,7 +4,7 @@
     "number": 18,
     "name": "Rain",
     "abilities": [
-		"~Warp 2~ - {f}",
+		"~Warp 2~ — {f}",
 		"*Haste*",
 		"When Rain enters the field due to an ability, choose 1 Forward opponent controls. Deal it 7000 damage."
     ],
