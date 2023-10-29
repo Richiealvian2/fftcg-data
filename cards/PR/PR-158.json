@@ -1,0 +1,32 @@
+{
+    "serial": "PR-158",
+    "opus": 0,
+    "number": 158,
+    "name": "Snow & Lightning",
+    "abilities": [
+        "Snow & Lightning is also ~Card Name Snow~ and ~Card Name Lightning~ in all situations.",
+        "The ~Category Anniversary~ Forwards other than Snow & Lightning you control gain *Haste* and \"When this Forward attacks, choose 1 Character. *Dull* it and *Freeze* it.\""
+    ],
+    "power": 10000,
+    "categories": [
+        "Anniversary",
+        "XIII"
+    ],
+    "jobs": [
+        "Sentinel",
+        "Ravager",
+        "L'Cie"
+    ],
+    "cost": 4,
+    "elements": [
+        "Ice",
+        "Lightning"
+    ],
+    "type": "Forward",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false,
+    "characterDesigners": [
+        "Tetsuya Nomura"
+    ]
+}
