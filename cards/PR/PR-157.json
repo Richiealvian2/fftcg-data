@@ -1,0 +1,29 @@
+{
+    "serial": "PR-157",
+    "opus": 0,
+    "number": 157,
+    "name": "Aerith",
+    "abilities": [
+        "The Characters you control cannot be returned to their owner's hand by your opponent's Summons or abilities.",
+        "When Aerith enters the field, reveal the top 3 cards of your deck. Play 1 Backup of cost 2 or less among them onto the field and return the other cards to the bottom of your deck in any order."
+    ],
+    "power": 3000,
+    "categories": [
+        "VII"
+    ],
+    "jobs": [
+        "Ancient"
+    ],
+    "cost": 2,
+    "elements": [
+        "Light"
+    ],
+    "type": "Forward",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false,
+    "characterDesigners": [
+        "Tetsuya Nomura",
+        "Roberto Ferrari"
+    ]
+}
