@@ -5,7 +5,7 @@
     "name": "Rursan Arbiter",
     "abilities": [
         "You cannot play Rursan Arbiter or ~Card Name Cid Aulstyne~ while already in control of either Character.",
-        "{0}: Choose 1 Forward. Break it. You can only use this ability if your opponent has no cards in their hand, during your turn, and only once per turn."
+        "{0}: Choose 1 Forward. Break it. You can only use this ability if your opponent has no cards in their hand, during your turn and only once per turn."
     
     ],
     "power": 8000,
