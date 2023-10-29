@@ -73,6 +73,7 @@ Ability text has special markup that gets replaced when it's rendered on materia
 |special text|`%kamehameha%`|
 |crystal|`{c}`|
 |elementless cp cost|`{0-10}`|
+|Any cost|`{X}`|
 |fire cp|`{f}`|
 |ice cp|`{i}`|
 |wind cp|`{w}`|
