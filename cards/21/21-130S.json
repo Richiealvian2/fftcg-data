@@ -1,0 +1,27 @@
+{
+    "serial": "21-130S",
+    "opus": 21,
+    "number": 130,
+    "name": "Noctis",
+    "abilities": [
+        "You must control a ~Category DFF~ Forward to cast Noctis.",
+        "{x} When Noctis enters the field, choose 1 *dull* Forward opponent controls. Break it."
+    ],
+	"power": 9000,
+    "categories": [
+        "DFF",
+        "XV"
+    ],
+    "jobs": [
+        "Prince"
+    ],
+    "cost": 3,
+    "elements": [
+        "Ice"
+    ],
+    "type": "Forward",
+    "rarity": "S",
+    "isExBurst": true,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}

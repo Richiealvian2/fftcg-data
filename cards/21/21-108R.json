@@ -1,0 +1,26 @@
+{
+    "serial": "21-108R",
+    "opus": 21,
+    "number": 108,
+    "name": "Ceodore",
+    "abilities": [
+        "If you control a ~Card Name Cecil~ or a ~Card Name Rosa~, you can pay {c} (instead of paying the CP cost) to cast Ceodore.",
+        "If you control a ~Card Name Cecil~ or a ~Card Name Rosa~, the ~Category IV~ Forwards you control gain +1000 power."
+    ],
+	"power": 8000,
+    "categories": [
+        "IV"
+    ],
+    "jobs": [
+        "Prince"
+    ],
+    "cost": 5,
+    "elements": [
+        "Water"
+    ],
+    "type": "Forward",
+    "rarity": "R",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}

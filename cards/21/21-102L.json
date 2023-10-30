@@ -1,0 +1,27 @@
+{
+    "serial": "21-102L",
+    "opus": 21,
+    "number": 102,
+    "name": "Gau",
+    "abilities": [
+        "The cost required to cast Gau is reduced by 1 for each Monster you control.",
+        "When Gau enters the field, choose 1 Forward opponent controls. If its cost is equal to or less than the number of Monsters you control, put it at the bottom of its owner's deck.",
+        "*Dull* *active* Gau: Choose 1 Monster. Until the end of the turn, it also becomes a Forward with 8000 power."
+    ],
+	"power": 8000,
+    "categories": [
+        "VI"
+    ],
+    "jobs": [
+        "Wild Child"
+    ],
+    "cost": 5,
+    "elements": [
+        "Water"
+    ],
+    "type": "Forward",
+    "rarity": "L",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}

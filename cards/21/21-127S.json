@@ -1,0 +1,28 @@
+{
+    "serial": "21-127S",
+    "opus": 21,
+    "number": 127,
+    "name": "Firion",
+    "abilities": [
+        "When Firion enters the field, choose 1 Forward. Deal it 3000 damage. If you control 2 or more ~Category DFF~ Forwards, deal it 7000 damage instead.",
+        "When a Character opponent controls is put from the field into the Break Zone, gain {c}. This effect will trigger only once per turn."
+    ],
+	"power": 5000,
+    "categories": [
+        "DFF",
+        "II"
+    ],
+    "jobs": [
+        "Rebel",
+        "Warrior"
+    ],
+    "cost": 5,
+    "elements": [
+        "Fire"
+    ],
+    "type": "Forward",
+    "rarity": "S",
+    "isExBurst": true,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}

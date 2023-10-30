@@ -1,0 +1,25 @@
+{
+    "serial": "21-105C",
+    "opus": 21,
+    "number": 105,
+    "name": "Sahagin",
+    "abilities": [
+        "When Sahagin enters the field, choose 1 Forward of cost 3 or less opponent controls. Return it to its owner's hand.",
+        "{a}{a}{1}{d}, put Sahagin into the Break Zone: Choose 1 Forward. Return it to its owner's hand."
+    ],
+    "categories": [
+        "SOPFFO"
+    ],
+    "jobs": [
+        "Sahagin"
+    ],
+    "cost": 1,
+    "elements": [
+        "Water"
+    ],
+    "type": "Monster",
+    "rarity": "C",
+    "isExBurst": false,
+    "isMultiPlayable": true,
+    "isSpecial": false
+}

@@ -1,0 +1,27 @@
+{
+    "serial": "21-118H",
+    "opus": 21,
+    "number": 118,
+    "name": "Leila",
+    "abilities": [
+        "When Leila enters the field, you may search for 1 ~Job Pirate~ or ~Card Name Viking~ and add it to your hand.",
+        "When a Water Forward you control attacks, choose 1 Forward opponent controls. It loses 1000 power until the end of the turn."
+    ],
+	"power": 4000,
+    "categories": [
+        "II"
+    ],
+    "jobs": [
+        "Pirate",
+        "Rebel"
+    ],
+    "cost": 3,
+    "elements": [
+        "Water"
+    ],
+    "type": "Forward",
+    "rarity": "H",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}

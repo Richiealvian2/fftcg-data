@@ -1,0 +1,28 @@
+{
+    "serial": "21-133S",
+    "opus": 21,
+    "number": 133,
+    "name": "Tidus",
+    "abilities": [
+        "{x} When Tidus enters the field, choose 1 Forward opponent controls. Return it to its owner's hand.",
+        "When a Forward opponent controls is returned from the field to its owner's hand, draw 1 card and gain {c}. This effect will trigger only once per turn."
+    ],
+	"power": 9000,
+    "categories": [
+        "DFF",
+        "X"
+    ],
+    "jobs": [
+        "Blitzballer",
+        "Guardian"
+    ],
+    "cost": 4,
+    "elements": [
+        "Wind"
+    ],
+    "type": "Forward",
+    "rarity": "S",
+    "isExBurst": true,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}

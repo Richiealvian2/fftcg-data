@@ -1,0 +1,26 @@
+{
+    "serial": "21-117L",
+    "opus": 21,
+    "number": 117,
+    "name": "Rhus",
+    "abilities": [
+        "The cost required to cast Rhus is reduced by 1 for each card you have drawn this turn (it cannot become 0).",
+        "Discard 1 card: Remove Rhus from the game. Play Rhus onto the field at the end of the turn."
+    ],
+	"power": 9000,
+    "categories": [
+        "FFBE"
+    ],
+    "jobs": [
+        "Caledfwlch"
+    ],
+    "cost": 6,
+    "elements": [
+        "Water"
+    ],
+    "type": "Forward",
+    "rarity": "R",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}

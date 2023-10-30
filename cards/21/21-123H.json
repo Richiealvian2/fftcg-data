@@ -1,0 +1,27 @@
+{
+    "serial": "21-123H",
+    "opus": 21,
+    "number": 123,
+    "name": "Darkness Manifest",
+    "abilities": [
+        "You can pay {2} and remove 1 Fire, 1 Wind, 1 Earth and 1 Water Character in your Break Zone from the game (instead of paying the CP cost) to cast Darkness Manifest.",
+        "At the beginning of Main Phase 1 during each of your turns, Darkness Manifest deals your opponent 1 point of damage.",
+        "When Darkness Manifest leaves the field, choose 1 Character. Break it."
+    ],
+	"power": 9000,
+    "categories": [
+        "SOPFFO"
+    ],
+    "jobs": [
+        "Chaos"
+    ],
+    "cost": 7,
+    "elements": [
+        "Dark"
+    ],
+    "type": "Forward",
+    "rarity": "H",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}

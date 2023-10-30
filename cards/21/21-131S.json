@@ -1,0 +1,27 @@
+{
+    "serial": "21-131S",
+    "opus": 21,
+    "number": 131,
+    "name": "Warrior of Light",
+    "abilities": [
+        "When Warrior of Light or a ~Category DFF~ Forward enters your field, gain {c}. This effect will trigger only once per turn.",
+        "{c}: Until the end of the turn, Warrior of Light gains +1000 power and \"Warrior of Light cannot be chosen by your opponent's abilities.\""
+    ],
+	"power": 5000,
+    "categories": [
+        "DFF",
+        "I"
+    ],
+    "jobs": [
+        "Warrior of Light"
+    ],
+    "cost": 2,
+    "elements": [
+        "Wind"
+    ],
+    "type": "Forward",
+    "rarity": "S",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}

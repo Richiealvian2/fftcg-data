@@ -1,0 +1,28 @@
+{
+    "serial": "21-134S",
+    "opus": 21,
+    "number": 134,
+    "name": "Bartz",
+    "abilities": [
+        "When Bartz enters the field, you may search for 1 ~Category DFF~ Forward other than Light or Dark and add it to your hand. Gain {c}.",
+        "Remove Bartz in your Break Zone from the game: Gain {c}. You can only use this ability if you control 2 or more ~Category DFF~ Forwards and if Bartz is in the Break Zone."
+    ],
+	"power": 8000,
+    "categories": [
+        "DFF",
+        "V"
+    ],
+    "jobs": [
+        "Wanderer",
+        "Warrior of Light"
+    ],
+    "cost": 4,
+    "elements": [
+        "Light"
+    ],
+    "type": "Forward",
+    "rarity": "S",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}

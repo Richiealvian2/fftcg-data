@@ -1,0 +1,27 @@
+{
+    "serial": "21-112C",
+    "opus": 21,
+    "number": 112,
+    "name": "Ninja",
+    "abilities": [
+        "*Back Attack*",
+        "Before paying the cost to cast Ninja, you can pay {c}] to reduce the cost required to cast Ninja by 3.",
+        "When Ninja enters the field, choose 1 Forward opponent controls. Return it to its owner's hand."
+    ],
+	"power": 7000,
+    "categories": [
+        "XIV"
+    ],
+    "jobs": [
+        "Standard Unit"
+    ],
+    "cost": 5,
+    "elements": [
+        "Water"
+    ],
+    "type": "Forward",
+    "rarity": "C",
+    "isExBurst": false,
+    "isMultiPlayable": true,
+    "isSpecial": false
+}
