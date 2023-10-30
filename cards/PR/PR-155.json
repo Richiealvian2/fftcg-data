@@ -1,0 +1,32 @@
+{
+    "serial": "PR-155",
+    "opus": 0,
+    "number": 155,
+    "name": "Laguna",
+    "abilities": [
+        "~Warp 2~ — {i}",
+        "When Laguna enters the field, choose 1 Character. *Dull* it and *Freeze* it.",
+        "When Laguna enters the field due to Warp, choose 1 Forward. If it is *dull*, deal it 8000 damage."
+    ],
+    "power": 7000,
+    "categories": [
+        "VIII"
+    ],
+    "jobs": [
+        "Marksman"
+    ],
+    "cost": 3,
+    "elements": [
+        "Ice"
+    ],
+    "type": "Forward",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false,
+    "characterDesigners": [
+        "Tetsuya Nomura"
+    ],
+    "illustrators": [
+        "Gen Kobayashi"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "serial": "21-023L",
+    "opus": 21,
+    "number": 23,
+    "name": "Ultimecia",
+    "abilities": [
+        "Ultimecia cannot be chosen by your opponent's Summons.",
+        "When Ultimecia enters the field, remove up to 5 Characters of cost 5 or more in your Break Zone from the game. When you removed 1 or more cards, choose the same number of Characters as the cards you removed this way. *Dull* them and *Freeze* them. You opponent discards 1 card."
+    ],
+    "power": 9000,
+    "categories": [
+        "VIII"
+    ],
+    "jobs": [
+        "Witch"
+    ],
+    "cost": 5,
+    "elements": [
+        "Ice"
+    ],
+    "type": "Forward",
+    "rarity": "L",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false,
+    "characterDesigners": [
+        "Tetsuya Nomura"
+    ],
+    "illustrators": [
+        "KINSHA creations",
+        "Accord Seven"
+    ]
+}

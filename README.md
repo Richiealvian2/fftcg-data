@@ -34,7 +34,9 @@ Each card should be in it's own `.json` file with the serial number as the name 
     type: CardType | undefined,
     isExBurst: boolean | undefined,
     isMultiPlayable: boolean | undefined,
-    isSpecial: boolean | undefined
+    isSpecial: boolean | undefined,
+    illustrators: string[] | undefined,
+    characterDesigners: string[] | undefined
 }
 ```
 
@@ -55,6 +57,8 @@ Each card should be in it's own `.json` file with the serial number as the name 
 |isExBurst|`true` if the card is an ex burst. `false` if not.|`"isExBurst": false`|
 |isMultiPlayable|`true` if the card is multiplayable. `false` if not.|`"isMultiPlayable": true`|
 |isSpecial|`true` if the card has a special. `false` if not.|`"isSpecial": false`|
+|illustrators|An array of illustrators listed on the card.|`"illustrators": ["name1", "name2"]`|
+|characterDesigners|An array of characterDesigners listed on the card.|`"characterDesigners": ["name1", "name2"]`|
 
 
 ### Ability Text
@@ -69,6 +73,7 @@ Ability text has special markup that gets replaced when it's rendered on materia
 |special text|`%kamehameha%`|
 |crystal|`{c}`|
 |elementless cp cost|`{0-10}`|
+|Any cost|`{X}`|
 |fire cp|`{f}`|
 |ice cp|`{i}`|
 |wind cp|`{w}`|

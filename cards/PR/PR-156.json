@@ -1,0 +1,29 @@
+{
+    "serial": "PR-156",
+    "opus": 0,
+    "number": 156,
+    "name": "Zack",
+    "abilities": [
+        "*Haste*",
+        "When Zack attacks, choose 1 Forward opponent controls. *Dull* it.",
+        "When an *active* Forward opponent controls becomes *dull* due to your Summon or ability, choose 1 Forward opponent controls. Deal it 5000 damage."
+    ],
+    "power": 7000,
+    "categories": [
+        "VII"
+    ],
+    "jobs": [
+        "SOLDIER"
+    ],
+    "cost": 4,
+    "elements": [
+        "Lightning"
+    ],
+    "type": "Forward",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false,
+    "characterDesigners": [
+        "Tetsuya Nomura"
+    ]
+}

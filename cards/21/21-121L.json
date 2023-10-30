@@ -4,10 +4,10 @@
     "number": 121,
     "name": "Warrior of Light",
     "abilities": [
-        "When Warrior of Light enters the field due to your cast, reveal the top 5 cards of your deck. Play up to 2 Characters of cost 3 among them onto the field and return the other cards to the bottom fo your deck in any order.",
-        "%Ultimate Shield% {s}: Until the end of the turn, Warrior of Light and the Forwards of cost 3 you control gain \"This Forward cannot be chosen by your opponent's Summons or abilities.\""
+        "When Warrior of Light enters the field due to your cast, reveal the top 5 cards of your deck. Play up to 2 Characters of cost 3 among them onto the field and return the other cards to the bottom of your deck in any order.",
+        "%Ultimate Shield% {s}: Until the end of your turn, Warrior of Light and the Forwards of cost 3 you control gain \"This Forward cannot be chosen by your opponent's Summons or abilities.\""
     ],
-	"power": 9000,
+    "power": 9000,
     "categories": [
         "I"
     ],
@@ -22,5 +22,6 @@
     "rarity": "L",
     "isExBurst": false,
     "isMultiPlayable": false,
-    "isSpecial": true
+    "isSpecial": true,
+    "illustrators": ["Yoshitaka Amano"]
 }
