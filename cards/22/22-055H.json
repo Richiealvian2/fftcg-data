@@ -1,0 +1,25 @@
+{
+    "serial": "22-055H",
+    "opus": 22,
+    "number": 55,
+    "name": "Vossler",
+    "abilities": [
+        "{x}When Vossler enters the field, you may search for 1 ~Job King~ and add it to your hand.",
+        "When Vossler attacks, during this turn, the cost required to cast your next Forward is reduced by 2 (it cannot be reduced to 0)."
+    ],
+    "categories": [
+        "XII"
+    ],
+    "jobs": [
+        "Captain"
+    ],
+    "cost": 4,
+    "elements": [
+        "Earth"
+    ],
+    "type": "Forward",
+    "rarity": "H",
+    "isExBurst": true,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}

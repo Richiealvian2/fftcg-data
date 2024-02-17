@@ -1,0 +1,25 @@
+{
+    "serial": "22-010L",
+    "opus": 22,
+    "number": 10,
+    "name": "Selphie",
+    "abilities": [
+        "When Selphie enters the field, you may *search* for one ~Category VIII~ Forward and add it to your hand.",
+        "{0}: Choose 1 ~Category VIII~ forward other than Selphie. Until the end of the turn, it gains +1000 power, *Haste* and *Brave*. You can only use this ability during your turn and only once per turn."
+    ],
+    "categories": [
+        "VIII"
+    ],
+    "jobs": [
+        "SeeD Candidate"
+    ],
+    "cost": 4,
+    "elements": [
+        "Fire"
+    ],
+    "type": "Forward",
+    "rarity": "L",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}

@@ -1,0 +1,25 @@
+{
+    "serial": "22-032L",
+    "opus": 22,
+    "number": 32,
+    "name": "Sephiroth",
+    "abilities": [
+        "When Sephiroth enters the field, your opponent discards 1 card.",
+        "{i}{2}, remove Sephiroth in your hand from the game: Choose 1 *dull* Forward. Break it. Until the end of your turn, you may cast Sephiroth removed from this ability's cost. You can only cast this ability if Sephiroth is in your hand."
+    ],
+    "categories": [
+        "VII"
+    ],
+    "jobs": [
+        "Soldier"
+    ],
+    "cost": 3,
+    "elements": [
+        "Ice"
+    ],
+    "type": "Forward",
+    "rarity": "L",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}

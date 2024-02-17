@@ -1,0 +1,24 @@
+{
+    "serial": "22-029R",
+    "opus": 22,
+    "number": 29,
+    "name": "Jihl Nabaat",
+    "abilities": [
+        "{x} When Jihl Nabaat enters the field, you may search for 1 ~Job PSICOM~ and add it to your hand."
+    ],
+    "categories": [
+        "XIII"
+    ],
+    "jobs": [
+        "PSICOM"
+    ],
+    "cost": 3,
+    "elements": [
+        "Ice"
+    ],
+    "type": "Forward",
+    "rarity": "R",
+    "isExBurst": true,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}
