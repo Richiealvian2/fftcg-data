@@ -1,0 +1,24 @@
+{
+    "serial": "22-029R",
+    "opus": 22,
+    "number": 29,
+    "name": "Quistis",
+    "abilities": [
+        "When Quistis enters the field, choose up to the same number of Characters as the ~Category VIII~ Forwards you control. *Dull* them. If you control 3 or more ~Category VIII~ Forwards, also *Freeze* them."
+    ],
+    "categories": [
+        "VIII"
+    ],
+    "jobs": [
+        "Instructor"
+    ],
+    "cost": 3,
+    "elements": [
+        "Ice"
+    ],
+    "type": "Forward",
+    "rarity": "R",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}

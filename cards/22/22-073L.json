@@ -1,0 +1,26 @@
+{
+    "serial": "22-073L",
+    "opus": 22,
+    "number": 73,
+    "name": "Ultimecia",
+    "abilities": [
+        "All cards in your Break Zone cannot be removed from the game by your opponents' Summons or abilities.",
+        "When Ultimecia enters the field, choose 1 Forward. If there are 15 or more cards in your Break Zone, you gain control of it.",
+        "%Maelstrom% {s}: Choose 1 Forward. It loses 10000 power until the end of the turn."
+    ],
+    "categories": [
+        "VIII"
+    ],
+    "jobs": [
+        "Witch"
+    ],
+    "cost": 5,
+    "elements": [
+        "Lightning"
+    ],
+    "type": "Forward",
+    "rarity": "L",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": true
+}

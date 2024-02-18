@@ -1,0 +1,26 @@
+{
+    "serial": "22-032L",
+    "opus": 22,
+    "number": 49,
+    "name": "Bartz",
+    "abilities": [
+        "Remove 3 ~Job Warrior of Light~ in the Break Zone from the game: Bartz gains \"Bartz cannot be chosen by your opponent's abilities.\" until the end of the turn.",
+        "%Time Magic% {s}{X}: Search for 1 ~Job Warrior of Light of cost X or less and play it onto the field. You can only use this ability during your turn."
+    ],
+    "categories": [
+        "V"
+    ],
+    "jobs": [
+        "Wanderer",
+        "Warrior of Light"
+    ],
+    "cost": 2,
+    "elements": [
+        "Wind"
+    ],
+    "type": "Forward",
+    "rarity": "H",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": true
+}
