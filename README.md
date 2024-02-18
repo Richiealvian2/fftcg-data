@@ -17,7 +17,7 @@ Each card should be in it's own `.json` file with the serial number as the name 
 /cards/01/1-001H.json
 ```
 
-### Schema
+### Card Schema
 ```
 {
     serial: string,
@@ -63,7 +63,7 @@ Each card should be in it's own `.json` file with the serial number as the name 
 |characterDesigners|An array of characterDesigners listed on the card.|`"characterDesigners": ["name1", "name2"]`|
 
 
-### Ability Text
+### Card Ability Text
 Ability text has special markup that gets replaced when it's rendered on materiahunter.
 
 |style|example|
@@ -87,3 +87,7 @@ Ability text has special markup that gets replaced when it's rendered on materia
 
 ## Pull Requests
 Raise a PR into main with a copy of the card image in the description so reviewers can compare your card text with the content of your PR. PRs should not be merged without images available. Links to images are acceptable as well.
+
+
+## Creating Q&A
+### Q&A Schema
