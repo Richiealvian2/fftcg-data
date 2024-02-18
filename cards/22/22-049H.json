@@ -5,7 +5,7 @@
     "name": "Bartz",
     "abilities": [
         "Remove 3 ~Job Warrior of Light~ in the Break Zone from the game: Bartz gains \"Bartz cannot be chosen by your opponent's abilities.\" until the end of the turn.",
-        "%Time Magic%{s}{X}:Search for 1 ~Job Warrior of Light of cost X or less and play it onto the field. You can only use this ability during your turn."
+        "%Time Magic% {s}{X}: Search for 1 ~Job Warrior of Light of cost X or less and play it onto the field. You can only use this ability during your turn."
     ],
     "categories": [
         "V"
