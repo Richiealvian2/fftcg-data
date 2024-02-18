@@ -1,0 +1,27 @@
+{
+    "serial": "22-113L",
+    "opus": 22,
+    "number": 113,
+    "name": "Mont Leonis",
+    "abilities": [
+        "~Limit Break~ - 3",
+        "When Mont Leonis enters the field, choose 1 cost 3 or less Fire Forward and 1 cost 5 or less Fire Forward in your Break Zone. If you control 5 or more Fire Backups, play them to the field. They gain *Haste* until the end of the turn. Then, put 1 Backup you control to the Break Zone."
+        ],
+    "power": 9000,    
+    "categories": [
+        "FFBE"
+    ],
+    "jobs": [
+        "Arclord ?"
+    ],
+    "cost": 8,
+    "elements": [
+        "Fire"
+    ],
+    "type": "Forward",
+    "rarity": "L",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false,
+    "isLB": true
+}

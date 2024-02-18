@@ -1,0 +1,28 @@
+{
+    "serial": "22-114L",
+    "opus": 22,
+    "number": 114,
+    "name": "Viktora",
+    "abilities": [
+        "~Limit Break~ - 2",
+        "If your opponent has no cards in their hand, Viktora gains +3000 power.",
+        "When Viktora enters the field, choose 1 Forward. If your oponent has 2 cards or less in their hand, deal it 7000 damage."
+        ],
+    "power": 7000,    
+    "categories": [
+        "FFBE"
+    ],
+    "jobs": [
+        "Dragoon"
+    ],
+    "cost": 4,
+    "elements": [
+        "Ice"
+    ],
+    "type": "Forward",
+    "rarity": "H",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false,
+    "isLB": true
+}

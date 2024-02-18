@@ -1,0 +1,25 @@
+{
+    "serial": "22-013C",
+    "opus": 22,
+    "number": 13,
+    "name": "Machina",
+    "abilities": [
+        "The cast required to cast Machina is incereased by 1 for each Forward you control.",
+        "{1}{d}, Put Machina in the Break Zone: Choose 1 Forward. Deal it 7000 damage."
+    ],
+    "categories": [
+        "TYPE 0"
+    ],
+    "jobs": [
+        "Class Zero Cadet"
+    ],
+    "cost": 1,
+    "elements": [
+        "Fire"
+    ],
+    "type": "Backup",
+    "rarity": "C",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}

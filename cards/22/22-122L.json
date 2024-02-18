@@ -1,0 +1,27 @@
+{
+    "serial": "22-122L",
+    "opus": 22,
+    "number": 122,
+    "name": "Tidus",
+    "abilities": [
+        "~Limit Break~ - 3",
+        "When Tidus enters the field, if you control 8 or more Forwards and/or Backups, you may pay {a}{a}{a}. When you do so, select up to 3 of the 3 following actions. \"Choose 1 Forward. Put it at the bottom of its owner's deck.\" \"Choose 1 Backup. Put it on top of its owner's deck.\" \"Choose 1 Backup. Put it on top of its owner's deck.\" \"Draw 2 cards.\""
+        ],
+    "power": 9000,    
+    "categories": [
+        "X"
+    ],
+    "jobs": [
+        "Guardian"
+    ],
+    "cost": 5,
+    "elements": [
+        "Water"
+    ],
+    "type": "Forward",
+    "rarity": "L",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false,
+    "isLB": true
+}

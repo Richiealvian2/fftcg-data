@@ -1,0 +1,26 @@
+{
+    "serial": "22-044L",
+    "opus": 22,
+    "number": 44,
+    "name": "Cid [FFBE]",
+    "abilities": [
+        "At the start of your attack phase, choose 1 of the follwing. \"Choose up to 2 Chararcters. Activate them\" \"Until the end of this turn, all Forwards you control gain\" \"Cannot be chosen by Summons of your opponent.\".",
+        "When Cid [FFBE] is put from the field into the Break Zone, you may pay {3}. When you do so, play Cid [FFBE] from the Break Zone onto the field dull."
+    ],
+    "power": 8000,
+    "categories": [
+        "FFBE"
+    ],
+    "jobs": [
+        "Sworn Six of Paladia"
+    ],
+    "cost": 4,
+    "elements": [
+        "Wind"
+    ],
+    "type": "Forward",
+    "rarity": "R",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}

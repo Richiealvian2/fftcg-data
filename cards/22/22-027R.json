@@ -1,0 +1,21 @@
+{
+    "serial": "22-027R",
+    "opus": 22,
+    "number": 27,
+    "name": "Shiva",
+    "abilities": [
+        "All the Characters opponent controls lose all their abilities until the end of the turn. If the CP paid to cast Shiva was only produced by Backups, also draw 1 card."
+    ],
+    "categories": [
+        "XIII"
+    ],
+    "cost": 3,
+    "elements": [
+        "Ice"
+    ],
+    "type": "Summon",
+    "rarity": "R",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}

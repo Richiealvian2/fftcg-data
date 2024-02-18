@@ -1,0 +1,22 @@
+{
+    "serial": "22-109H",
+    "opus": 22,
+    "number": 109,
+    "name": "Eden",
+    "abilities": [
+        "The cast to cost Eden is reduced by 1 for each ~Category VIII~ Character you control.",
+        "Choose up to 2 Forwards. Deal 30000 damage among them as you like. This damage cannot be reduced."
+    ],
+    "categories": [
+        "VIII"
+    ],
+    "cost": 8,
+    "elements": [
+        "Light"
+    ],
+    "type": "Summon",
+    "rarity": "H",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}
