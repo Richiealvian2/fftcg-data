@@ -5,7 +5,7 @@
     "name": "Edea",
     "abilities": [
         "When Edea enters the field, you may *search* for 1 ~Category VIII~ Forward and add it to your hand.",
-        "Put the top 2 cards of your deck into the Break Zone: Choose 1 Forward. It loses 4000 power until the end of the turn. IF there are 10 or mroe cards in your Break Zone, it loses 8000 power until the end of the turn instead. You can only use this ability during your turn and only once per turn."
+        "Put the top 2 cards of your deck into the Break Zone: Choose 1 Forward. It loses 4000 power until the end of the turn. If there are 10 or more cards in your Break Zone, it loses 8000 power until the end of the turn instead. You can only use this ability during your turn and only once per turn."
     ],
     "categories": [
         "VIII"

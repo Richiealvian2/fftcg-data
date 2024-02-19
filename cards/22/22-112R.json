@@ -4,7 +4,7 @@
     "number": 112,
     "name": "Zack",
     "abilities": [
-        "(Cards with *LB* cannot be included in your main deck.)",
+        "(Cards with {b} cannot be included in your main deck.)",
         "~Limit Break~ - 1",
         "When Zack enters the field, choose 1 Forward. Deal it 3000 damage."
         ],
@@ -13,7 +13,7 @@
         "VII"
     ],
     "jobs": [
-        "Soldier"
+        "SOLDIER"
     ],
     "cost": 3,
     "elements": [

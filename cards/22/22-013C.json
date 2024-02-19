@@ -4,11 +4,11 @@
     "number": 13,
     "name": "Machina",
     "abilities": [
-        "The cast required to cast Machina is incereased by 1 for each Forward you control.",
+        "The cost required to cast Machina is incereased by 1 for each Forward you control.",
         "{1}{d}, Put Machina in the Break Zone: Choose 1 Forward. Deal it 7000 damage."
     ],
     "categories": [
-        "TYPE 0"
+        "TYPE-0"
     ],
     "jobs": [
         "Class Zero Cadet"

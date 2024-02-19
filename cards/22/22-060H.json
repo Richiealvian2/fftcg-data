@@ -4,7 +4,7 @@
     "number": 60,
     "name": "Ghido",
     "abilities": [
-        "Ghido cannot attack for block.",
+        "Ghido cannot attack or block.",
         "At the end of your turn, put a Wisdom counter on Ghido. During this turn, if a Character you controlled was put into the Break Zone from the field, put 3 Wisdom counters on Ghido instead.",
         "Remove 3 Wisdom counters from Ghido: Draw 2 cards."
     ],
