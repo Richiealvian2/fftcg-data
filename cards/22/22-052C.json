@@ -1,0 +1,25 @@
+{
+    "serial": "22-052C",
+    "opus": 22,
+    "number": 52,
+    "name": "Lilisette",
+    "abilities": [
+        "{x} When Lilisette enters the field, choose 1 Forward. Deal it 1000 damage for each Character you control."
+    ],
+    "categories": [
+        "DFF",
+        "XI"
+    ],
+    "jobs": [
+        "Dancer"
+    ],
+    "cost": 3,
+    "elements": [
+        "Wind"
+    ],
+    "type": "Backup",
+    "rarity": "C",
+    "isExBurst": true,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}

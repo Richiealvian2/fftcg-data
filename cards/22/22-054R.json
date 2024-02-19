@@ -1,0 +1,26 @@
+{
+    "serial": "22-054R",
+    "opus": 22,
+    "number": 54,
+    "name": "Reddas",
+    "abilities": [
+        "The cost required to cdast Reddas is reduced by 1 for each ~Job Sky Pirate~ you control.",
+        "The ~Job Sky Pirate~ other than Reddas you control cannot be chosen by your opponent's Summons."
+    ],
+    "power": 9000,
+    "categories": [
+        "XII"
+    ],
+    "jobs": [
+        "Sky Pirate"
+    ],
+    "cost": 4,
+    "elements": [
+        "Wind"
+    ],
+    "type": "Forward",
+    "rarity": "R",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}

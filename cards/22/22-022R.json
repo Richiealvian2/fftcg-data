@@ -6,6 +6,7 @@
     "abilities": [
         "When Quistis enters the field, choose up to the same number of Characters as the ~Category VIII~ Forwards you control. *Dull* them. If you control 3 or more ~Category VIII~ Forwards, also *Freeze* them."
     ],
+    "power": 7000,
     "categories": [
         "VIII"
     ],

@@ -1,0 +1,26 @@
+{
+    "serial": "22-031H",
+    "opus": 22,
+    "number": 31,
+    "name": "Squall",
+    "abilities": [
+        "If you control 4 or more Category VIII Characters, Squall gets +2000 power and \"If Squall would receive damage from your opponent's abilities, that damage becomes 0 instead\".",
+        "At the start of your attack phase, you may play a Category VIII of cost 4 or less from your hand to the field."
+    ],
+    "power": 8000,
+    "categories": [
+        "VIII"
+    ],
+    "jobs": [
+        "SeeD Candidate"
+    ],
+    "cost": 4,
+    "elements": [
+        "Ice"
+    ],
+    "type": "Forward",
+    "rarity": "H",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}

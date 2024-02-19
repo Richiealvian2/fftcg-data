@@ -1,0 +1,28 @@
+{
+    "serial": "22-112R",
+    "opus": 22,
+    "number": 112,
+    "name": "Zack",
+    "abilities": [
+        "(Cards with {b} cannot be included in your main deck.)",
+        "~Limit Break~ - 1",
+        "When Zack enters the field, choose 1 Forward. Deal it 3000 damage."
+        ],
+    "power": 7000,    
+    "categories": [
+        "VII"
+    ],
+    "jobs": [
+        "SOLDIER"
+    ],
+    "cost": 3,
+    "elements": [
+        "Fire"
+    ],
+    "type": "Forward",
+    "rarity": "R",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false,
+    "isLB": true
+}

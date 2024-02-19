@@ -1,0 +1,28 @@
+{
+    "serial": "22-120H",
+    "opus": 22,
+    "number": 120,
+    "name": "Cloud",
+    "abilities": [
+        "~Limit Break~ - 2",
+        "When Cloud enters the field, choose 1 Forward of cost 3 or less. Break it.",
+        "%Limit Burst% {s}{l}{l}{l}{l}{d}: Choose 1 Forward opponent controls. Break it. Cloud deals your opponent 1 point of damage."
+        ],
+    "power": 8000,    
+    "categories": [
+        "VII"
+    ],
+    "jobs": [
+        "Rider"
+    ],
+    "cost": 4,
+    "elements": [
+        "Lightning"
+    ],
+    "type": "Forward",
+    "rarity": "H",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false,
+    "isLB": true
+}

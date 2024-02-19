@@ -1,0 +1,29 @@
+{
+    "serial": "22-116L",
+    "opus": 22,
+    "number": 116,
+    "name": "Ace",
+    "abilities": [
+        "~Limit Break~ - 3",
+        "When Ace enters the field, deal 1000 daamge for each Wind Character you control to all the Forwards opponent controls.",
+        "When Ace attacks, reveal the top card of your deck. If it is a Wind card, add it to your hand."
+        ],
+    "power": 8000,    
+    "categories": [
+        "DFF",
+        "TYPE-0"
+    ],
+    "jobs": [
+        "Class Zero Cadet"
+    ],
+    "cost": 8,
+    "elements": [
+        "Wind"
+    ],
+    "type": "Forward",
+    "rarity": "L",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false,
+    "isLB": true
+}

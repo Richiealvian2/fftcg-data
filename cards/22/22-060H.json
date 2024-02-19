@@ -1,0 +1,27 @@
+{
+    "serial": "22-060H",
+    "opus": 22,
+    "number": 60,
+    "name": "Ghido",
+    "abilities": [
+        "Ghido cannot attack or block.",
+        "At the end of your turn, put a Wisdom counter on Ghido. During this turn, if a Character you controlled was put into the Break Zone from the field, put 3 Wisdom counters on Ghido instead.",
+        "Remove 3 Wisdom counters from Ghido: Draw 2 cards."
+    ],
+    "power": 10000,
+    "categories": [
+        "V"
+    ],
+    "jobs": [
+        "Sage"
+    ],
+    "cost": 2,
+    "elements": [
+        "Earth"
+    ],
+    "type": "Forward",
+    "rarity": "H",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}
