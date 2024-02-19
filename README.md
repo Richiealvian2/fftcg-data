@@ -35,6 +35,7 @@ Each card should be in it's own `.json` file with the serial number as the name 
     isExBurst: boolean | undefined,
     isMultiPlayable: boolean | undefined,
     isSpecial: boolean | undefined,
+    isLB: boolean | undefined,
     illustrators: string[] | undefined,
     characterDesigners: string[] | undefined
 }
@@ -57,6 +58,7 @@ Each card should be in it's own `.json` file with the serial number as the name 
 |isExBurst|`true` if the card is an ex burst. `false` if not.|`"isExBurst": false`|
 |isMultiPlayable|`true` if the card is multiplayable. `false` if not.|`"isMultiPlayable": true`|
 |isSpecial|`true` if the card has a special. `false` if not.|`"isSpecial": false`|
+|isLB|`true` if the card is an Limit Break card. Omitted or `false` if not.|
 |illustrators|An array of illustrators listed on the card.|`"illustrators": ["name1", "name2"]`|
 |characterDesigners|An array of characterDesigners listed on the card.|`"characterDesigners": ["name1", "name2"]`|
 
@@ -81,6 +83,7 @@ Ability text has special markup that gets replaced when it's rendered on materia
 |lightning cp|`{l}`|
 |water cp|`{a}`|
 |dull icon|`{d}`|
+|LB icon|`{b}`|
 
 ## Pull Requests
 Raise a PR into main with a copy of the card image in the description so reviewers can compare your card text with the content of your PR. PRs should not be merged without images available. Links to images are acceptable as well.
