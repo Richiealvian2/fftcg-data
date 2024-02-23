@@ -1,0 +1,27 @@
+{
+    "serial": "22-067L",
+    "opus": 22,
+    "number": 67,
+    "name": "Nacht",
+    "abilities": [
+        "When Nacht enters the field, you may *search* for up to 3 ~Job Warrior of Darkness~ with different names and add them to your hand.",
+        "At the beginning of the Attack Phase during each of your turns, you may play 1 ~Job Warrior of Darkness~ of cost 5 or less from your hand onto the field.",
+        "%Final Thrust% {s}{e}{l}: Choose 1 Forward. Break it."
+    ],
+    "power": 9000,
+    "categories": [
+        "FFL"
+    ],
+    "jobs": [
+        "Warrior of Darkness"
+    ],
+    "cost": 9,
+    "elements": [
+        "Earth"
+    ],
+    "type": "Forward",
+    "rarity": "L",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": true
+}

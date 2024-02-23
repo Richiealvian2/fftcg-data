@@ -1,0 +1,27 @@
+{
+    "serial": "22-018R",
+    "opus": 22,
+    "number": 18,
+    "name": "Luartha",
+    "abilities": [
+        "When Luartha attacks, choose 1 Forward opponent controls. Deal it 5000 damage.",
+        "{c}: Luartha gains *Haste* until the end of the turn.",
+        "~Damage 3~ - When Luartha enters the field, choose 1 Forward opponent controls. Deal it 5000 damage."
+    ],
+    "power": 3000,
+    "categories": [
+        "FFBE"
+    ],
+    "jobs": [
+        "Dual Gunner"
+    ],
+    "cost": 1,
+    "elements": [
+        "Fire"
+    ],
+    "type": "Forward",
+    "rarity": "R",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}

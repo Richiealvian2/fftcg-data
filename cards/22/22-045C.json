@@ -1,0 +1,26 @@
+{
+    "serial": "22-045C",
+    "opus": 22,
+    "number": 45,
+    "name": "Sosha",
+    "abilities": [
+        "If you control a ~Job Dragoon~ or ~Card Name Dragoon~, the cost required to cast Sosha is reduced by 2.",
+        "{d}: Choose 1 Forward. Deal it 4000 damage."
+    ],
+    "power": 8000,
+    "categories": [
+        "FFBE"
+    ],
+    "jobs": [
+        "Dragoon"
+    ],
+    "cost": 4,
+    "elements": [
+        "Wind"
+    ],
+    "type": "Forward",
+    "rarity": "C",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}

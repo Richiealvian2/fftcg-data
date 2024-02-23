@@ -4,8 +4,8 @@
     "number": 24,
     "name": "Kurasame",
     "abilities": [
-        "When Kurasame enters the field, select 1 of the 2 following actions. \"Choose opponents' Characters equal to the number of Ice Backups, *Dull* them and *Freeze* them.\" \"Your opponent discards 1 card for each Ice Backup you control.",
-        "%Special% {s}: Choose one Forward. Deal it 9000 damage."
+        "When Kurasame enters the field, select 1 of the 2 following actions. \"Choose up to the same number of Characters as the Ice Backups you control. *Dull* them and *Freeze* them.\" \"Your opponent discards 1 card for each Ice Backup you control.",
+        "%Blizzaga% {s}: Choose one Forward. Deal it 9000 damage."
     ],
     "power": 9000,
     "categories": [

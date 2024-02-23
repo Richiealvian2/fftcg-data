@@ -1,0 +1,26 @@
+{
+    "serial": "22-074R",
+    "opus": 22,
+    "number": 74,
+    "name": "Alba",
+    "abilities": [
+        "{x} When Alba enters the field due to an ability, choose 1 Forward of cost 4 or less opponent controls. Break it.",
+        "When Alba enters the field, choose 1 ~Job Warrior of Darkness~ Forward. It gains *Haste* until the end of the turn."
+    ],
+    "power": 7000,
+    "categories": [
+        "FFL"
+    ],
+    "jobs": [
+        "Warrior of Darkness"
+    ],
+    "cost": 3,
+    "elements": [
+        "Lightning"
+    ],
+    "type": "Forward",
+    "rarity": "R",
+    "isExBurst": true,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}

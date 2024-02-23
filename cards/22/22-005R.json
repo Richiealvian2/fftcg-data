@@ -1,0 +1,25 @@
+{
+    "serial": "22-005R",
+    "opus": 22,
+    "number": 5,
+    "name": "Ignacio",
+    "abilities": [
+        "When Ignacio enters the field, put the top 3 cards of your deck into the Break Zone. When you do so, choose up to 1 Forward. If all the cards put into the Break Zone are of Fire Element, deal it 9000 damage."
+    ],
+    "power": 9000,
+    "categories": [
+        "FFBE"
+    ],
+    "jobs": [
+        "Sworn Six of Paladia"
+    ],
+    "cost": 5,
+    "elements": [
+        "Fire"
+    ],
+    "type": "Forward",
+    "rarity": "R",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}

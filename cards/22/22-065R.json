@@ -1,0 +1,26 @@
+{
+    "serial": "22-065R",
+    "opus": 22,
+    "number": 65,
+    "name": "Sieghard",
+    "abilities": [
+        "When Sieghard enters the field, you may *dull 4 active* Backups you control. When you do so, choose 1 Forward of cost 6 or less in your Break Zone. Play it onto the field.",
+        "{c}: Until the end of the turn, Sieghard gains +3000 power and *Brave*"
+    ],
+    "power": 7000,
+    "categories": [
+        "FFBE"
+    ],
+    "jobs": [
+        "Sworn Six of the Paladia"
+    ],
+    "cost": 3,
+    "elements": [
+        "Earth"
+    ],
+    "type": "Forward",
+    "rarity": "R",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}
