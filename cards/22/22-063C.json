@@ -1,0 +1,28 @@
+{
+    "serial": "22-063C",
+    "opus": 22,
+    "number": 63,
+    "name": "Sand Worm",
+    "abilities": [
+        "During your turn, Sand Worm also becomes a Forward with 9000 power.",
+        "When Sand Worm is put from the field into the Break Zone, choose 1 Forward. Break it.",
+        "~Damage 3~ - When Sand Worm attacks, choose 1 Forward. It gains \"If possible, this Forward must block.\" until the end of the turn."
+    ],
+    "power": 9000,
+    "categories": [
+        "THEATRHYTHM",
+        "X"
+    ],
+    "jobs": [
+        "Worm"
+    ],
+    "cost": 5,
+    "elements": [
+        "Earth"
+    ],
+    "type": "Monster",
+    "rarity": "C",
+    "isExBurst": false,
+    "isMultiPlayable": true,
+    "isSpecial": false
+}

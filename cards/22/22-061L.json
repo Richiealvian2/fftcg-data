@@ -1,0 +1,26 @@
+{
+    "serial": "22-061L",
+    "opus": 22,
+    "number": 61,
+    "name": "Gilgamesh",
+    "abilities": [
+        "If you control 5 or more Backups, Gilgamesh gains +2000 power, and cannot be broken by opposing Summons or abilities that don't deal damage.",
+        "When Gilgamesh enters the field or attacks, you may pay {e}{e}{1}. When you do so, choose 1 Forward, or Monster. Break it."
+    ],
+    "power": 7000,
+    "categories": [
+        "V"
+    ],
+    "jobs": [
+        "Praetorian"
+    ],
+    "cost": 3,
+    "elements": [
+        "Earth"
+    ],
+    "type": "Forward",
+    "rarity": "L",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}
