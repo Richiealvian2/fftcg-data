@@ -1,0 +1,25 @@
+{
+    "serial": "22-069C",
+    "opus": 22,
+    "number": 69,
+    "name": "Baelo",
+    "abilities": [
+        "When Baelo enters the field, choose 1 Earth Character in your Break Zone. Add it to your hand.",
+        "{d}, put Baelo into the Break Zone: Choose 1 Forward. It gains +2000 power until the end of the turn."
+    ],
+    "categories": [
+        "FFBE"
+    ],
+    "jobs": [
+        "Knight"
+    ],
+    "cost": 3,
+    "elements": [
+        "Earth"
+    ],
+    "type": "Backup",
+    "rarity": "C",
+    "isExBurst": false,
+    "isMultiPlayable": true,
+    "isSpecial": false
+}

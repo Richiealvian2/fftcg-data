@@ -1,0 +1,24 @@
+{
+    "serial": "22-021R",
+    "opus": 22,
+    "number": 21,
+    "name": "Emina",
+    "abilities": [
+        "When Emina enters the field, you may *search* for 1 Ice Character of cost 2 or less and add it to your hand."
+    ],
+    "categories": [
+        "TYPE-0"
+    ],
+    "jobs": [
+        "Commanding Officer"
+    ],
+    "cost": 4,
+    "elements": [
+        "Ice"
+    ],
+    "type": "Backup",
+    "rarity": "R",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}
