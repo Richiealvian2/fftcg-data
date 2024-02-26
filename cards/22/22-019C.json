@@ -1,0 +1,27 @@
+{
+    "serial": "22-019C",
+    "opus": 22,
+    "number": 19,
+    "name": "Ice Bomb",
+    "abilities": [
+        "During your turn, Ice Bomb also becomes a Forward with 3000 power.",
+        "When Ice Bomb attacks, choose 1 Forward opponent controls. *Freeze* it.",
+        "~Damage 3~ - When Ice Bomb attacks, choose 1 Forward. *Dull* it."
+    ],
+    "power": 3000,
+    "categories": [
+        "FFCC"
+    ],
+    "jobs": [
+        "Bomb"
+    ],
+    "cost": 1,
+    "elements": [
+        "Ice"
+    ],
+    "type": "Monster",
+    "rarity": "R",
+    "isExBurst": false,
+    "isMultiPlayable": true,
+    "isSpecial": false
+}

@@ -1,0 +1,25 @@
+{
+    "serial": "22-030C",
+    "opus": 22,
+    "number": 30,
+    "name": "Shinryu Celestia",
+    "abilities": [
+        "Shinryu Celestia is also ~Card Name Celestia~ in all situations.",
+        "{d}: Choose 1 Forward. It gains +4000 power until the end of the turn. You can only use this ability if you control 5 or more Ice Backups."
+    ],
+    "categories": [
+        "TYPE-0"
+    ],
+    "jobs": [
+        "L'Cie"
+    ],
+    "cost": 2,
+    "elements": [
+        "Ice"
+    ],
+    "type": "Monster",
+    "rarity": "C",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}

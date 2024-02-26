@@ -1,0 +1,27 @@
+{
+    "serial": "22-092C",
+    "opus": 22,
+    "number": 92,
+    "name": "Agrias",
+    "abilities": [
+        "When Agrias enters the field, choose 1 Forward of cost 4 or less opponent controls. If you control 2 or more ~Job Knight~ Characters, return it to your opponent's hand.",
+        "~Damage 3~ - Agrias gains +4000 power."
+    ],
+    "power": 3000,
+    "categories": [
+        "THEATRHYTHM",
+        "FFT"
+    ],
+    "jobs": [
+        "Knight"
+    ],
+    "cost": 1,
+    "elements": [
+        "Water"
+    ],
+    "type": "Forward",
+    "rarity": "C",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}

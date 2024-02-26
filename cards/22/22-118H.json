@@ -1,0 +1,28 @@
+{
+    "serial": "22-118H",
+    "opus": 22,
+    "number": 118,
+    "name": "Shantotto",
+    "abilities": [
+        "~Limit Break~ - 7",
+        "When Shantotto enters the field, you may pay {e}{e}{e}{e}{e}. When you do so remove all the Forwards and Monsters other than Shantotto from the game."
+        ],
+    "power": 9000,    
+    "categories": [
+        "DFF",
+        "XII"
+    ],
+    "jobs": [
+        "Mage"
+    ],
+    "cost": 4,
+    "elements": [
+        "Earth"
+    ],
+    "type": "Forward",
+    "rarity": "H",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false,
+    "isLB": true
+}
