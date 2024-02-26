@@ -5,7 +5,7 @@
     "name": "Angeal",
     "abilities": [
         "If a ~Job SOLDIER~ Forward you control deals damage to a Forward, the damage increases by 2000 instead.",
-        "When Angeal enters the field, you may {X}. When you do so, *search* for 1 ~Job SOLDIER~ Forward of cost X and play it onto the field."
+        "When Angeal enters the field, you may pay {X}. When you do so, *search* for 1 ~Job SOLDIER~ Forward of cost X and play it onto the field."
     ],
     "power": 9000,
     "categories": [

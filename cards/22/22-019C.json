@@ -5,8 +5,8 @@
     "name": "Ice Bomb",
     "abilities": [
         "During your turn, Ice Bomb also becomes a Forward with 3000 power.",
-        "When Ice Bomb attacks, choose 1 Forward opponent controls. *Freeze*.",
-        "~Damage 3~ - When Ice Bomb attacks, choose 1 Forward. *Dull*."
+        "When Ice Bomb attacks, choose 1 Forward opponent controls. *Freeze* it.",
+        "~Damage 3~ - When Ice Bomb attacks, choose 1 Forward. *Dull* it."
     ],
     "power": 3000,
     "categories": [
