@@ -1,0 +1,26 @@
+{
+    "serial": "22-097L",
+    "opus": 22,
+    "number": 97,
+    "name": "Curilla",
+    "abilities": [
+        "If a ~Job Knight~ Forward other than Curilla you control is dealt damage less than its power, the damage becomes 0 instead.",
+        "When Curilla enters the field, reveal the top 5 cards of your deck. Play up to 2 ~Job Knight~ with a total cost of 4 or less among them onto the field and return the other cards to the bottom of your deck in any order."
+    ],
+    "power": 9000,
+    "categories": [
+        "XI"
+    ],
+    "jobs": [
+        "Knight"
+    ],
+    "cost": 5,
+    "elements": [
+        "Water"
+    ],
+    "type": "Forward",
+    "rarity": "L",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}

@@ -1,0 +1,25 @@
+{
+    "serial": "22-048H",
+    "opus": 22,
+    "number": 48,
+    "name": "Nanaa Mihgo",
+    "abilities": [
+        "When Nanaa Mihgo enters the field, select 1 of the 2 following actions. \"Choose 1 Forward of cost 2 or less in your opponent's Break Zone. Play it onto your field.\" \"Choose 1 Summon of cost 3 or less in your opponent's Break Zone. Cast it as though you owned it without paying the cost. If you cast it, remove that Summon from the game after use instead of putting it in the Break Zone.\""
+    ],
+    "power": 5000,
+    "categories": [
+        "XI"
+    ],
+    "jobs": [
+        "Robber"
+    ],
+    "cost": 4,
+    "elements": [
+        "Wind"
+    ],
+    "type": "Forward",
+    "rarity": "H",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}
