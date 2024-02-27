@@ -1,0 +1,26 @@
+{
+    "serial": "22-103C",
+    "opus": 22,
+    "number": 103,
+    "name": "Faris",
+    "abilities": [
+        "When Faris enters the field, you may remove 1 Forward you control from the game. When you do so, your opponent selects 1 Forward they control. Put it into the Break Zone."
+    ],
+    "categories": [
+        "THEATRHYTHM",
+        "V"
+    ],
+    "jobs": [
+        "Pirate",
+        "Warrior of Light"
+    ],
+    "cost": 1,
+    "elements": [
+        "Water"
+    ],
+    "type": "Backup",
+    "rarity": "C",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}

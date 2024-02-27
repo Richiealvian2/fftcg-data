@@ -1,0 +1,26 @@
+{
+    "serial": "22-090H",
+    "opus": 22,
+    "number": 90,
+    "name": "Lulu",
+    "abilities": [
+        "At the beginning of the Attack Phase during each of your turns, you may remove 2 Summons in your Break Zone from the game. When you do so, choose 1 Forward. Deal it 7000 damage.",
+        "Discard 1 Summon: Choose 1 Forward. Deal it 5000 damage."
+    ],
+    "power": 5000,
+    "categories": [
+        "X"
+    ],
+    "jobs": [
+        "Guardian"
+    ],
+    "cost": 2,
+    "elements": [
+        "Lightning"
+    ],
+    "type": "Forward",
+    "rarity": "H",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}
