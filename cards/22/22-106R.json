@@ -5,7 +5,7 @@
     "name": "Yuna",
     "abilities": [
         "When Yuna enters the field, during this turn, the cost required to cast your next ~Card Name Tidus~ is reduced by 2 (it cannot become 0).",
-        "When a ~Card Name Tidus~ enters field, choose 1 Summon in your Break Zone. Add it your hand. This effect will trigger only once per turn."
+        "When a ~Card Name Tidus~ enters field, choose 1 Summon in your Break Zone. Add it to your hand. This effect will trigger only once per turn."
     ],
     "power": 5000,
     "categories": [

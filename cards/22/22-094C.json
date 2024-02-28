@@ -1,0 +1,26 @@
+{
+    "serial": "22-094C",
+    "opus": 22,
+    "number": 94,
+    "name": "Vaan",
+    "abilities": [
+        "When Vaan enters the field, choose 1 Forward opponent controls. If you control 3 or more ~Job Pirate~ and/or ~Card Name Viking~, it loses 8000 power until the end of the turn."
+    ],
+    "power": 5000,
+    "categories": [
+        "DFF",
+        "XII"
+    ],
+    "jobs": [
+        "Pirate"
+    ],
+    "cost": 2,
+    "elements": [
+        "Water"
+    ],
+    "type": "Forward",
+    "rarity": "C",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}
