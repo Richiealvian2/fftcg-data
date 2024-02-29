@@ -1,0 +1,27 @@
+{
+    "serial": "22-071C",
+    "opus": 22,
+    "number": 71,
+    "name": "Lich",
+    "abilities": [
+        "For each Earth Backup you control, Lich gains +1000 power.",
+        "When Lich enters the field, choose 1 Backup in your Break Zone. Add it to your hand."
+    ],
+    "power": 5000,
+    "categories": [
+        "THEATRHYTHM",
+        "I"
+    ],
+    "jobs": [
+        "Chaos"
+    ],
+    "cost": 4,
+    "elements": [
+        "Earth"
+    ],
+    "type": "Forward",
+    "rarity": "C",
+    "isExBurst": false,
+    "isMultiPlayable": true,
+    "isSpecial": false
+}

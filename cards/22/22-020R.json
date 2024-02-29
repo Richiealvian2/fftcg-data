@@ -1,0 +1,25 @@
+{
+    "serial": "22-020R",
+    "opus": 22,
+    "number": 20,
+    "name": "Vallaide",
+    "abilities": [
+        "{1}: Choose 1 Forward. It gains \"When this Forward is dealt damage, break this Forward.\" until the end of the turn. You can only use this ability once per turn."
+    ],
+    "power": 5000,
+    "categories": [
+        "FFBE"
+    ],
+    "jobs": [
+        "Green Mage"
+    ],
+    "cost": 2,
+    "elements": [
+        "Ice"
+    ],
+    "type": "Forward",
+    "rarity": "R",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}
