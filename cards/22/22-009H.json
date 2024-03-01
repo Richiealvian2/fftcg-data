@@ -1,0 +1,27 @@
+{
+    "serial": "22-009H",
+    "opus": 22,
+    "number": 9,
+    "name": "Jecht",
+    "abilities": [
+        "The cost required to cast Jecht is reduced by 1 for each Fire Character you control.",
+        "When Jecht enters the field, choose 1 Forward opponent controls. Jecht and the chosen Forward deal damage equal to their respective power to the other."
+    ],
+    "power": 9000,
+    "categories": [
+        "DFF",
+        "X"
+    ],
+    "jobs": [
+        "Guardian"
+    ],
+    "cost": 6,
+    "elements": [
+        "Fire"
+    ],
+    "type": "Forward",
+    "rarity": "H",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}

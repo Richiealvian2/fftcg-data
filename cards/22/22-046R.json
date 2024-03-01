@@ -1,0 +1,25 @@
+{
+    "serial": "22-046R",
+    "opus": 22,
+    "number": 46,
+    "name": "Chelinka",
+    "abilities": [
+        "If you control 3 or more ~Category FFCC~ Characters, the ~Card Name Yuri~ you control gains *Haste*."
+    ],
+    "power": 5000,
+    "categories": [
+        "FFCC"
+    ],
+    "jobs": [
+        "Lay Crystal User"
+    ],
+    "cost": 2,
+    "elements": [
+        "Wind"
+    ],
+    "type": "Forward",
+    "rarity": "R",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}

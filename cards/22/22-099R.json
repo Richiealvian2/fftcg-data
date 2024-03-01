@@ -1,0 +1,25 @@
+{
+    "serial": "22-099R",
+    "opus": 22,
+    "number": 99,
+    "name": "Severo",
+    "abilities": [
+        "When Severo enters the field, choose 1 Forward of cost 4 or less opponent controls. Return it to its owner's hand. Gain {c}.",
+        "{a}{a}{a}{2}{d}, put Severo into the Break Zone: Choose 1 Forward. Put it at the bottom of its owner's deck."
+    ],
+    "categories": [
+        "FFBE"
+    ],
+    "jobs": [
+        "Black Mage"
+    ],
+    "cost": 3,
+    "elements": [
+        "Water"
+    ],
+    "type": "Backup",
+    "rarity": "R",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}
