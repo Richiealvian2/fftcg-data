@@ -1,0 +1,24 @@
+{   "serial": "22-047L",
+    "opus": 22,
+    "number": 47,
+    "name": "Dorgann",
+    "abilities": [
+        "When Dorgann enters the field, select 1 of the 3 following actions. If you have cast 3 or more cards this turn, select up to 2 of the following actions instead. \"Choose 1 Forward of cost 5 or more. Remove it from the game.\" \"Choose 1 Monster. Remove it from the game.\" \"Choose 2 cards from either player's Break Zone. Remove them from the game. Draw 1 Card.\""
+    ],
+    "power": 8000,
+    "categories": [
+        "V"
+    ],
+    "jobs": [
+        "Dawn Warrior"
+    ],
+    "cost": 4,
+    "elements": [
+        "Wind"
+    ],
+    "type": "Forward",
+    "rarity": "L",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}

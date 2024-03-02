@@ -1,0 +1,26 @@
+{
+    "serial": "22-007C",
+    "opus": 22,
+    "number": 7,
+    "name": "Carla",
+    "abilities": [
+        "{d}: Choose 1 Forward opponent controls. Deal it 3000 damage.",
+        "{d}: Choose 1 attacking Forward. It gains +2000 power until the end of the turn."
+    ],
+    "power": 7000,
+    "categories": [
+        "TYPE-0"
+    ],
+    "jobs": [
+        "Agito Cadet"
+    ],
+    "cost": 3,
+    "elements": [
+        "Fire"
+    ],
+    "type": "Forward",
+    "rarity": "R",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}
