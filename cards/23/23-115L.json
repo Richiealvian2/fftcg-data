@@ -1,0 +1,24 @@
+{
+    "serial": "23-115L",
+    "opus": 23,
+    "number": 115,
+    "name": "Venat",
+    "abilities": [
+        "When Venat enters the field, gain {c}{c}.",
+        "When Venat is put from the field into the Break Zone, you may pay {c}. When you do so, choose 1 Forward. Remove it from the game.",
+        "{c}{c}{d}: *Search* for 1 card and add it to your hand."
+    ],
+    "categories": [
+        "XIV"
+    ],
+    "jobs": [],
+    "cost": 4,
+    "elements": [
+        "Light"
+    ],
+    "type": "Forward",
+    "rarity": "L",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}
