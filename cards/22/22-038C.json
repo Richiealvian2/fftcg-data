@@ -1,0 +1,27 @@
+{
+    "serial": "22-038C",
+    "opus": 22,
+    "number": 38,
+    "name": "Wol",
+    "abilities": [
+        "When Wol enters the field, select 1 of the 2 following actions.",
+        "\"Choose 1 Forward of cost 6 or more. Break it\"",
+        "\"Reveal the top 5 cards of your deck. Add 1 Wind card among them to your hand and return the other cards to the bottom of your deck in any order\""
+    ],
+    "categories": [
+        "THEATRHYTHM",
+        "MOBIUS"
+    ],
+    "jobs": [
+        "Warrior of Light"
+    ],
+    "cost": 4,
+    "elements": [
+        "Wind"
+    ],
+    "type": "Backup",
+    "rarity": "C",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}

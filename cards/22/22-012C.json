@@ -1,0 +1,27 @@
+{
+    "serial": "22-012C",
+    "opus": 22,
+    "number": 12,
+    "name": "Foulander",
+    "abilities": [
+        "During your turn, Foulander also becomes a Forward with 4000 power.",
+        "When Foulander attacks, choose 1 Forward opponent controls. Deal it 3000 damage.",
+        "~Damage 3~- If Foulander deals damage to a Forward, the damage increases by 2000 instead."
+    ],
+    "power": 4000,
+    "categories": [
+        "VII"
+    ],
+    "jobs": [
+        "Foulander"
+    ],
+    "cost": 1,
+    "elements": [
+        "Fire"
+    ],
+    "type": "Monster",
+    "rarity": "C",
+    "isExBurst": false,
+    "isMultiPlayable": true,
+    "isSpecial": false
+}

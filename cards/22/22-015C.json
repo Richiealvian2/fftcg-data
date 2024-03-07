@@ -1,0 +1,24 @@
+{
+    "serial": "22-015C",
+    "opus": 22,
+    "number": 15,
+    "name": "Meeth",
+    "abilities": [
+        "When Meeth enters the field, you may remove 1 Backup other than Meeth you control from the game. If you do so, draw 2 cards."
+    ],
+    "categories": [
+        "FFCC"
+    ],
+    "jobs": [
+        "Alchemist"
+    ],
+    "cost": 2,
+    "elements": [
+        "Fire"
+    ],
+    "type": "Backup",
+    "rarity": "C",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}

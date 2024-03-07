@@ -1,0 +1,28 @@
+{
+    "serial": "22-003R",
+    "opus": 22,
+    "number": 3,
+    "name": "Ayame",
+    "abilities": [
+        "*Brave*",
+        "When a ~Job Samurai~ or a ~Card Name Samurai~ other than Ayame enters your field, Ayame gains +4000 power until the end of the turn.",
+        "When Ayame attacks, choose 1 Forward opponent controls. If Ayame has 9000 power or more, deal it 7000 damage."
+    ],
+    "power": 5000,
+    "categories": [
+        "PICTLOGICA",
+        "XI"
+    ],
+    "jobs": [
+        "Samurai"
+    ],
+    "cost": 2,
+    "elements": [
+        "Fire"
+    ],
+    "type": "Forward",
+    "rarity": "R",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}

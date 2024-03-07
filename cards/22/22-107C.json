@@ -1,0 +1,26 @@
+{
+    "serial": "22-107C",
+    "opus": 22,
+    "number": 107,
+    "name": "Yuni",
+    "abilities": [
+        "When Yuni enters the field, choose 1 Forward. It loses 4000 power until the end of the turn.",
+        "{d}: Choose 1 Forward. It loses 2000 power until the end of the turn."
+    ],
+    "power": 7000,
+    "categories": [
+        "FFBE"
+    ],
+    "jobs": [
+        "Ranger"
+    ],
+    "cost": 3,
+    "elements": [
+        "Water"
+    ],
+    "type": "Forward",
+    "rarity": "C",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}

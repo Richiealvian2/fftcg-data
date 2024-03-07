@@ -1,0 +1,27 @@
+{
+    "serial": "22-006H",
+    "opus": 22,
+    "number": 6,
+    "name": "Garland",
+    "abilities": [
+        "{x} When Garland enters the field, choose 1 ~Job Knight~ other than ~Card Name Garland~ in your Break Zone. Add it to your hand.",
+        "When a ~Job Knight~ other than Garland enters your field, choose 1 Forward opponent controls. Deal it 5000 damage."
+    ],
+    "power": 8000,
+    "categories": [
+        "DFF",
+        "I"
+    ],
+    "jobs": [
+        "Knight"
+    ],
+    "cost": 4,
+    "elements": [
+        "Fire"
+    ],
+    "type": "Forward",
+    "rarity": "H",
+    "isExBurst": true,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}

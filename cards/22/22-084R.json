@@ -1,0 +1,27 @@
+{
+    "serial": "22-084R",
+    "opus": 22,
+    "number": 84,
+    "name": "Fujin",
+    "abilities": [
+        "If there are 10 or more cards in your Break Zone, the ~Card Name Seifer~ Forward and the ~Job Disciplinary Committee Member~ Forwards you control gain +2000 power and *First Strike*.",
+        "When Fujin enters the field, put the top 2 cards of your deck into the Break Zone.",
+        "When Fujin is put from the deck into the Break Zone, you may play Fujin from your Break Zone onto the field."
+    ],
+    "power": 5000,
+    "categories": [
+        "VIII"
+    ],
+    "jobs": [
+        "Disciplinary Committee Member"
+    ],
+    "cost": 2,
+    "elements": [
+        "Lightning"
+    ],
+    "type": "Forward",
+    "rarity": "R",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}

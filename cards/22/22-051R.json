@@ -1,0 +1,28 @@
+{
+    "serial": "22-051R",
+    "opus": 22,
+    "number": 51,
+    "name": "Hope",
+    "abilities": [
+        "When Hope enteres the field, reveal the top 4 cards of your deck. Add 1 ~Category XIII~ card among them to your hand and return the other cards to the bottom of your deck in any order.",
+        "%Aeroga% {s}{w}: Choose 1 Forward of power 9000 or more. Break it."
+    ],
+    "power": 5000,
+    "categories": [
+        "THEATRHYTHM",
+        "XIII"
+    ],
+    "jobs": [
+        "Ravager",
+        "L'Cie"
+    ],
+    "cost": 2,
+    "elements": [
+        "Wind"
+    ],
+    "type": "Forward",
+    "rarity": "R",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": true
+}
