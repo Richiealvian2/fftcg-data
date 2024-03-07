@@ -1,0 +1,27 @@
+{
+    "serial": "22-085C",
+    "opus": 22,
+    "number": 85,
+    "name": "Moth Slasher",
+    "abilities": [
+        "During your turn, Moth Slasher also becomes a Forward with 7000 power.",
+        "When Moth Slasher is put from the field into the Break Zone, you may *search* for 1 ~Card Name Moth Slasher~ of cost 2 or less and play it onto the field.",
+        "~Damage 3~ - Moth Slasher gains +1000 power."
+    ],
+    "power": 7000,
+    "categories": [
+        "VII"
+    ],
+    "jobs": [
+        "War Machine"
+    ],
+    "cost": 2,
+    "elements": [
+        "Lightning"
+    ],
+    "type": "Monster",
+    "rarity": "C",
+    "isExBurst": false,
+    "isMultiPlayable": true,
+    "isSpecial": false
+}

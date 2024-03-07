@@ -1,0 +1,26 @@
+{
+    "serial": "22-083C",
+    "opus": 22,
+    "number": 83,
+    "name": "Ninja",
+    "abilities": [
+        "*Haste*",
+        "If you control 2 or more ~Job Standard Unit~ Backups, Ninja gains +4000 power."
+    ],
+    "power": 4000,
+    "categories": [
+        "V"
+    ],
+    "jobs": [
+        "Standard Unit"
+    ],
+    "cost": 2,
+    "elements": [
+        "Lightning"
+    ],
+    "type": "Forward",
+    "rarity": "C",
+    "isExBurst": false,
+    "isMultiPlayable": true,
+    "isSpecial": false
+}

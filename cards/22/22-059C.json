@@ -1,0 +1,25 @@
+{
+    "serial": "22-059C",
+    "opus": 22,
+    "number": 59,
+    "name": "Gabranth",
+    "abilities": [
+        "When Gabranth enters the field, choose 1 Backup in your Break Zone. If you have received more points of damage than your opponent, add it to your hand."
+    ],
+    "categories": [
+        "DFF",
+        "XII"
+    ],
+    "jobs": [
+        "Judge"
+    ],
+    "cost": 2,
+    "elements": [
+        "Earth"
+    ],
+    "type": "Backup",
+    "rarity": "C",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false
+}

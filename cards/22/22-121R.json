@@ -1,0 +1,29 @@
+{
+    "serial": "22-121R",
+    "opus": 22,
+    "number": 121,
+    "name": "Lightning",
+    "abilities": [
+        "(Cards with {b} cannot be included in your main deck.)",
+        "~Limit Break~ - 2",
+        "When Lightning enters the field, choose 1 Lightning Summon in your Break Zone. Add it to your hand."
+        ],
+    "power": 5000,    
+    "categories": [
+        "XIII"
+    ],
+    "jobs": [
+        "Ravager",
+        "L'Cie"
+    ],
+    "cost": 4,
+    "elements": [
+        "Lightning"
+    ],
+    "type": "Forward",
+    "rarity": "R",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false,
+    "isLB": true
+}
