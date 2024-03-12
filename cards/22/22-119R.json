@@ -1,0 +1,29 @@
+{
+  "serial": "22-119R",
+  "opus": 22,
+  "number": 119,
+  "name": "Maat",
+  "abilities": [
+    "(Cards with {b} cannot be included in your main deck.)",
+    "~Limit Break~ - 1",
+    "*Brave*",
+    "When Matt enters the field, until the end of the turn, all the Forwards you control gain +1000 power and *Brave*."
+  ],
+  "power": 8000,
+  "categories": [
+    "XI"
+  ],
+  "jobs": [
+    "Monk"
+  ],
+  "cost": 4,
+  "elements": [
+    "Earth"
+  ],
+  "type": "Forward",
+  "rarity": "R",
+  "isExBurst": false,
+  "isMultiPlayable": false,
+  "isSpecial": false,
+  "isLB": true
+}

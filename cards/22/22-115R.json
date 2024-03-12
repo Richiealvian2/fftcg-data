@@ -1,0 +1,28 @@
+{
+  "serial": "22-115R",
+  "opus": 22,
+  "number": 115,
+  "name": "Serjes",
+  "abilities": [
+    "(Cards with {b} cannot be included in your main deck.)",
+    "~Limit Break~ - 1",
+    "When Serjes enters the field, select 1 of the 2 following actions. \"Choose 1 Forward. *Dull* it.\" \"Choose 1 Forward. *Freeze* it.\""
+  ],
+  "power": 7000,
+  "categories": [
+    "FFBE"
+  ],
+  "jobs": [
+    "Lancer"
+  ],
+  "cost": 3,
+  "elements": [
+    "Ice"
+  ],
+  "type": "Forward",
+  "rarity": "R",
+  "isExBurst": false,
+  "isMultiPlayable": false,
+  "isSpecial": false,
+  "isLB": true
+}

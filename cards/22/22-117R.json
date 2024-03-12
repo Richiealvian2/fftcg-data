@@ -1,0 +1,29 @@
+{
+  "serial": "22-117R",
+  "opus": 22,
+  "number": 117,
+  "name": "Yuri",
+  "abilities": [
+    "(Cards with {b} cannot be included in your main deck.)",
+    "~Limit Break~ - 2",
+    "If you control 5 or more Backups, Yuri gains +4000 power.",
+    "When Yuri enters the field, you may *search* for 1 ~Card Name Chelinka~ Forward and cost 2 or less and play it onto the field."
+  ],
+  "power": 4000,
+  "categories": [
+    "FFCC"
+  ],
+  "jobs": [
+    "Lay Crystal User"
+  ],
+  "cost": 5,
+  "elements": [
+    "Wind"
+  ],
+  "type": "Forward",
+  "rarity": "R",
+  "isExBurst": false,
+  "isMultiPlayable": false,
+  "isSpecial": false,
+  "isLB": true
+}
