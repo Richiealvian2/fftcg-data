@@ -1,0 +1,28 @@
+{
+  "serial": "22-123R",
+  "opus": 22,
+  "number": 123,
+  "name": "Leo",
+  "abilities": [
+    "(Cards with {b} cannot be included in your main deck.)",
+    "~Limit Break~ - 1",
+    "When Leo enters the field, draw 1 card."
+  ],
+  "power": 3000,
+  "categories": [
+    "FFCC"
+  ],
+  "jobs": [
+    "King"
+  ],
+  "cost": 3,
+  "elements": [
+    "Water"
+  ],
+  "type": "Forward",
+  "rarity": "R",
+  "isExBurst": false,
+  "isMultiPlayable": false,
+  "isSpecial": false,
+  "isLB": true
+}
