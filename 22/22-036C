@@ -1,22 +1,22 @@
 {
-    serial: 22-036C,
-    name: "Rinoa",
-    opus: 22,
-    number: 1,
-    abilities: [
-    "If you control a ~Card name Squall~, the cost required to cast Rinoa is reduced by 1."
-    "{d}, put Rinoa into the Break Zone: Your opponent discards 2 cards. You can only use this ability during your turn."
-    ]
-    categories: "VIII"
-    jobs: "Resistance Fighter",
-    rarity: "C",
-    cost: 3,
-    elements: "Ice",
-    type: "Backup",
-    isExBurst: false,
-    isMultiPlayable: false,
-    isSpecial: false,
-    isLB: false,
-    illustrators: "Mihoko Ishii",
-    characterDesigners: "Tetsuya Nomura"
+    "serial": "22-036C",
+    "name": "Rinoa",
+    "opus": 22,
+    "number": 1,
+    "abilities": [
+        "If you control a ~Card name Squall~, the cost required to cast Rinoa is reduced by 1.",
+        "{d}, put Rinoa into the Break Zone: Your opponent discards 2 cards. You can only use this ability during your turn."
+    ],
+    "categories": ["VIII"],
+    "jobs": ["Resistance Fighter"],
+    "rarity": "C",
+    "cost": 3,
+    "elements": ["Ice"],
+    "type": "Backup",
+    "isExBurst": false,
+    "isMultiPlayable": false,
+    "isSpecial": false,
+    "isLB": false,
+    "illustrators": ["Mihoko Ishii"],
+    "characterDesigners": ["Tetsuya Nomura"]
 }
