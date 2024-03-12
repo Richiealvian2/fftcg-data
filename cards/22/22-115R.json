@@ -8,16 +8,16 @@
     "~Limit Break~ - 1",
     "When Serjes enters the field, select 1 of the 2 following actions. \"Choose 1 Forward. *Dull* it.\" \"Choose 1 Forward. *Freeze* it.\""
   ],
-  "power": 3000,
+  "power": 7000,
   "categories": [
-    "FFCC"
+    "FFBE"
   ],
   "jobs": [
-    "King"
+    "Lancer"
   ],
   "cost": 3,
   "elements": [
-    "Water"
+    "Ice"
   ],
   "type": "Forward",
   "rarity": "R",
