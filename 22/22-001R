@@ -1,0 +1,22 @@
+{
+    serial: 22-001R,
+    name: "Auron",
+    opus: 22,
+    number: 1,
+    abilities: [
+    "*Back attack*"
+    "When Auron enters the field, choose 1 Forward."
+    "During this turn, the next damage dealt to it by your opponent's Summons or abilities becomes 0 instead."
+    categories: "X"
+    jobs: "Guardian",
+    rarity: "R",
+    cost: 2,
+    elements: "Fire",
+    type: "Backup",
+    isExBurst: false,
+    isMultiPlayable: false,
+    isSpecial: false,
+    isLB: false,
+    illustrators: "Tetsuya Nomura",
+    characterDesigners: "Tetsuya Nomura"
+}
