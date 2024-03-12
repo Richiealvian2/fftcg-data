@@ -7,7 +7,6 @@
     "*Back attack*"
     "When Auron enters the field, choose 1 Forward."
     "During this turn, the next damage dealt to it by your opponent's Summons or abilities becomes 0 instead."
-    power: number | undefined,
     categories: "X"
     jobs: "Guardian",
     rarity: "R",
