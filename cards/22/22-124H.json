@@ -1,0 +1,27 @@
+{
+  "serial": "22-124H",
+  "opus": 22,
+  "number": 124,
+  "name": "Little Leela",
+  "abilities": [
+    "~Limit Break~ - 1",
+    "When Little Leela attacks, choose 1 Forward opponent controls. It loses 7000 power until the end of the turn."
+  ],
+  "categories": [
+    "FFBE"
+  ],
+  "power": 8000,
+  "jobs": [
+    "Mystic Knight"
+  ],
+  "cost": 5,
+  "elements": [
+    "Dark"
+  ],
+  "type": "Foward",
+  "rarity": "H",
+  "isExBurst": false,
+  "isMultiPlayable": false,
+  "isSpecial": false,
+  "isLB": true
+}
