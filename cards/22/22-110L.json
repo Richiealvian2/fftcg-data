@@ -4,15 +4,15 @@
   "number": 110,
   "name": "Citra",
   "abilities": [
-    "When you cast a Summon, choose 1 Forward opponent controls. It loses 2000 power until the end of the turn",
-    "When Citra enters the field, choose 5 cards in your Break Zone. Remove them from teh game. If all the cards removed by this effect are the same Element, search for 1 Summon of cost 3 or less and remove it form the game. Then, cast it without paying the cost."
+    "When you cast a Summon, choose 1 Forward opponent controls. It loses 2000 power until the end of the turn.",
+    "When Citra enters the field, choose 5 cards in your Break Zone. Remove them from the game. If all the cards removed by this effect are the same Element, search for 1 Summon of cost 3 or less and remove it from the game. Then, cast it without paying the cost."
   ],
   "categories": [
     "FFBE"
   ],
   "power": 7000,
   "jobs": [
-    "Ranger"
+    "Sworn Six of Paladia"
   ],
   "cost": 3,
   "elements": [
